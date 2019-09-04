@@ -951,11 +951,11 @@ Birmingham,Europe,1911,1446,Grande Bretagne,Birmingham - Grande Bretagne,1428,52
 Birmingham,Europe,1912,1464,Grande Bretagne,Birmingham - Grande Bretagne,1446,52.48142,-1.89983,#C8BDFF,
 Birmingham,Europe,1913,1482,Grande Bretagne,Birmingham - Grande Bretagne,1464,52.48142,-1.89983,#C8BDFF,
 Birmingham,Europe,1914,1500,Grande Bretagne,Birmingham - Grande Bretagne,1482,52.48142,-1.89983,#C8BDFF,
-Boston,Amérique du Nord,1924,1722.181818,Etats-Unis d'Amérique,Boston - Etats-Unis d'Amérique,1722.181818,42.347919,-71.06453,#C8BDFF,
-Boston,Amérique du Nord,1925,1764,Etats-Unis d'Amérique,Boston - Etats-Unis d'Amérique,1722.181818,42.347919,-71.06453,#C8BDFF,
-Boston,Amérique du Nord,1926,1795.48,Etats-Unis d'Amérique,Boston - Etats-Unis d'Amérique,1764,42.347919,-71.06453,#C8BDFF,
-Boston,Amérique du Nord,1927,1826.96,Etats-Unis d'Amérique,Boston - Etats-Unis d'Amérique,1795.48,42.347919,-71.06453,#C8BDFF,
-Boston,Amérique du Nord,1928,1858.44,Etats-Unis d'Amérique,Boston - Etats-Unis d'Amérique,1826.96,42.347919,-71.06453,#C8BDFF,
+Boston,Amérique du Nord,1924,1722.181818,US,Boston - US,1722.181818,42.347919,-71.06453,#C8BDFF,
+Boston,Amérique du Nord,1925,1764,US,Boston - US,1722.181818,42.347919,-71.06453,#C8BDFF,
+Boston,Amérique du Nord,1926,1795.48,US,Boston - US,1764,42.347919,-71.06453,#C8BDFF,
+Boston,Amérique du Nord,1927,1826.96,US,Boston - US,1795.48,42.347919,-71.06453,#C8BDFF,
+Boston,Amérique du Nord,1928,1858.44,US,Boston - US,1826.96,42.347919,-71.06453,#C8BDFF,
 Buenos Aires,Amérique Latine,1911,1453.428571,Argentine,Buenos Aires - Argentine,1453.428571,-34.61315,-58.4,#C8BDFF,
 Buenos Aires,Amérique Latine,1912,1512.285714,Argentine,Buenos Aires - Argentine,1453.428571,-34.61315,-58.4,#C8BDFF,
 Buenos Aires,Amérique Latine,1913,1571.142857,Argentine,Buenos Aires - Argentine,1512.285714,-34.61315,-58.4,#C8BDFF,
@@ -1197,97 +1197,97 @@ Le Caire,Moyen Orient,2017,19490.4,Egypte,Le Caire - Egypte,19131.2,30.04,31.24,
 Le Caire,Moyen Orient,2018,19849.6,Egypte,Le Caire - Egypte,19490.4,30.04,31.24,#C8BDFF,8
 Le Caire,Moyen Orient,2019,20208.8,Egypte,Le Caire - Egypte,19849.6,30.04,31.24,#C8BDFF,
 Le Caire,Moyen Orient,2020,20568,Egypte,Le Caire - Egypte,20208.8,30.04,31.24,#C8BDFF,
-Chicago,Amérique du Nord,1883,824.84,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,824.84,41.85003,-87.6501,#C8BDFF,
-Chicago,Amérique du Nord,1884,877.32,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,824.84,41.85003,-87.6501,#C8BDFF,
-Chicago,Amérique du Nord,1885,929.8,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,877.32,41.85003,-87.6501,#C8BDFF,9
-Chicago,Amérique du Nord,1886,982.28,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,929.8,41.85003,-87.6501,#C8BDFF,9
-Chicago,Amérique du Nord,1887,1034.76,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,982.28,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1888,1087.24,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,1034.76,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1889,1139.72,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,1087.24,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1890,1192.2,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,1139.72,41.85003,-87.6501,#C8BDFF,6
-Chicago,Amérique du Nord,1891,1244.68,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,1192.2,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1892,1297.16,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,1244.68,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1893,1349.64,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,1297.16,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1894,1402.12,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,1349.64,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1895,1454.6,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,1402.12,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1896,1507.08,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,1454.6,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1897,1559.56,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,1507.08,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1898,1612.04,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,1559.56,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1899,1664.52,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,1612.04,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1900,1717,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,1664.52,41.85003,-87.6501,#C8BDFF,4
-Chicago,Amérique du Nord,1901,1767.214286,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,1717,41.85003,-87.6501,#C8BDFF,4
-Chicago,Amérique du Nord,1902,1817.428571,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,1767.214286,41.85003,-87.6501,#C8BDFF,4
-Chicago,Amérique du Nord,1903,1867.642857,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,1817.428571,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1904,1917.857143,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,1867.642857,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1905,1968.071429,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,1917.857143,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1906,2018.285714,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,1968.071429,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1907,2068.5,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,2018.285714,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1908,2118.714286,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,2068.5,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1909,2168.928571,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,2118.714286,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1910,2219.142857,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,2168.928571,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1911,2269.357143,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,2219.142857,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1912,2319.571429,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,2269.357143,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1913,2369.785714,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,2319.571429,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1914,2420,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,2369.785714,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1915,2524,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,2420,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1916,2628,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,2524,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1917,2732,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,2628,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1918,2836,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,2732,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1919,2940,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,2836,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1920,3044,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,2940,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1921,3148,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,3044,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1922,3252,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,3148,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1923,3356,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,3252,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1924,3460,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,3356,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1925,3564,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,3460,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1926,3621.4,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,3564,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1927,3678.8,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,3621.4,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1928,3736.2,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,3678.8,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1929,3793.6,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,3736.2,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1930,3851,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,3793.6,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1931,3908.4,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,3851,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1932,3965.8,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,3908.4,41.85003,-87.6501,#C8BDFF,4
-Chicago,Amérique du Nord,1933,4023.2,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,3965.8,41.85003,-87.6501,#C8BDFF,4
-Chicago,Amérique du Nord,1934,4080.6,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,4023.2,41.85003,-87.6501,#C8BDFF,4
-Chicago,Amérique du Nord,1935,4138,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,4080.6,41.85003,-87.6501,#C8BDFF,4
-Chicago,Amérique du Nord,1936,4195.4,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,4138,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1937,4252.8,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,4195.4,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1938,4310.2,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,4252.8,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1939,4367.6,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,4310.2,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1940,4425,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,4367.6,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1941,4482.4,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,4425,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1942,4539.8,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,4482.4,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1943,4597.2,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,4539.8,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1944,4654.6,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,4597.2,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1945,4712,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,4654.6,41.85003,-87.6501,#C8BDFF,5
-Chicago,Amérique du Nord,1946,4769.4,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,4712,41.85003,-87.6501,#C8BDFF,7
-Chicago,Amérique du Nord,1947,4826.8,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,4769.4,41.85003,-87.6501,#C8BDFF,7
-Chicago,Amérique du Nord,1948,4884.2,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,4826.8,41.85003,-87.6501,#C8BDFF,7
-Chicago,Amérique du Nord,1949,4941.6,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,4884.2,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1950,4999,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,4941.6,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1951,5112.2,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,4999,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1952,5225.4,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,5112.2,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1953,5338.6,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,5225.4,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1954,5451.8,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,5338.6,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1955,5565,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,5451.8,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1956,5688.6,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,5565,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1957,5812.2,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,5688.6,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1958,5935.8,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,5812.2,41.85003,-87.6501,#C8BDFF,9
-Chicago,Amérique du Nord,1959,6059.4,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,5935.8,41.85003,-87.6501,#C8BDFF,9
-Chicago,Amérique du Nord,1960,6183,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,6059.4,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1961,6274.2,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,6183,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1962,6365.4,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,6274.2,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1963,6456.6,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,6365.4,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1964,6547.8,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,6456.6,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1965,6639,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,6547.8,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1966,6828.2,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,6639,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1967,7017.4,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,6828.2,41.85003,-87.6501,#C8BDFF,8
-Chicago,Amérique du Nord,1968,7206.6,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,7017.4,41.85003,-87.6501,#C8BDFF,9
-Chicago,Amérique du Nord,1969,7395.8,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,7206.6,41.85003,-87.6501,#C8BDFF,9
-Chicago,Amérique du Nord,1970,7585,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,7395.8,41.85003,-87.6501,#C8BDFF,
-Chicago,Amérique du Nord,1971,7588,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,7585,41.85003,-87.6501,#C8BDFF,
-Chicago,Amérique du Nord,1972,7591,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,7588,41.85003,-87.6501,#C8BDFF,
-Chicago,Amérique du Nord,1973,7594,Etats-Unis d'Amérique,Chicago - Etats-Unis d'Amérique,7591,41.85003,-87.6501,#C8BDFF,
+Chicago,Amérique du Nord,1883,824.84,US,Chicago - US,824.84,41.85003,-87.6501,#C8BDFF,
+Chicago,Amérique du Nord,1884,877.32,US,Chicago - US,824.84,41.85003,-87.6501,#C8BDFF,
+Chicago,Amérique du Nord,1885,929.8,US,Chicago - US,877.32,41.85003,-87.6501,#C8BDFF,9
+Chicago,Amérique du Nord,1886,982.28,US,Chicago - US,929.8,41.85003,-87.6501,#C8BDFF,9
+Chicago,Amérique du Nord,1887,1034.76,US,Chicago - US,982.28,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1888,1087.24,US,Chicago - US,1034.76,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1889,1139.72,US,Chicago - US,1087.24,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1890,1192.2,US,Chicago - US,1139.72,41.85003,-87.6501,#C8BDFF,6
+Chicago,Amérique du Nord,1891,1244.68,US,Chicago - US,1192.2,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1892,1297.16,US,Chicago - US,1244.68,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1893,1349.64,US,Chicago - US,1297.16,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1894,1402.12,US,Chicago - US,1349.64,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1895,1454.6,US,Chicago - US,1402.12,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1896,1507.08,US,Chicago - US,1454.6,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1897,1559.56,US,Chicago - US,1507.08,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1898,1612.04,US,Chicago - US,1559.56,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1899,1664.52,US,Chicago - US,1612.04,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1900,1717,US,Chicago - US,1664.52,41.85003,-87.6501,#C8BDFF,4
+Chicago,Amérique du Nord,1901,1767.214286,US,Chicago - US,1717,41.85003,-87.6501,#C8BDFF,4
+Chicago,Amérique du Nord,1902,1817.428571,US,Chicago - US,1767.214286,41.85003,-87.6501,#C8BDFF,4
+Chicago,Amérique du Nord,1903,1867.642857,US,Chicago - US,1817.428571,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1904,1917.857143,US,Chicago - US,1867.642857,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1905,1968.071429,US,Chicago - US,1917.857143,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1906,2018.285714,US,Chicago - US,1968.071429,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1907,2068.5,US,Chicago - US,2018.285714,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1908,2118.714286,US,Chicago - US,2068.5,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1909,2168.928571,US,Chicago - US,2118.714286,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1910,2219.142857,US,Chicago - US,2168.928571,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1911,2269.357143,US,Chicago - US,2219.142857,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1912,2319.571429,US,Chicago - US,2269.357143,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1913,2369.785714,US,Chicago - US,2319.571429,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1914,2420,US,Chicago - US,2369.785714,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1915,2524,US,Chicago - US,2420,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1916,2628,US,Chicago - US,2524,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1917,2732,US,Chicago - US,2628,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1918,2836,US,Chicago - US,2732,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1919,2940,US,Chicago - US,2836,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1920,3044,US,Chicago - US,2940,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1921,3148,US,Chicago - US,3044,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1922,3252,US,Chicago - US,3148,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1923,3356,US,Chicago - US,3252,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1924,3460,US,Chicago - US,3356,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1925,3564,US,Chicago - US,3460,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1926,3621.4,US,Chicago - US,3564,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1927,3678.8,US,Chicago - US,3621.4,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1928,3736.2,US,Chicago - US,3678.8,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1929,3793.6,US,Chicago - US,3736.2,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1930,3851,US,Chicago - US,3793.6,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1931,3908.4,US,Chicago - US,3851,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1932,3965.8,US,Chicago - US,3908.4,41.85003,-87.6501,#C8BDFF,4
+Chicago,Amérique du Nord,1933,4023.2,US,Chicago - US,3965.8,41.85003,-87.6501,#C8BDFF,4
+Chicago,Amérique du Nord,1934,4080.6,US,Chicago - US,4023.2,41.85003,-87.6501,#C8BDFF,4
+Chicago,Amérique du Nord,1935,4138,US,Chicago - US,4080.6,41.85003,-87.6501,#C8BDFF,4
+Chicago,Amérique du Nord,1936,4195.4,US,Chicago - US,4138,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1937,4252.8,US,Chicago - US,4195.4,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1938,4310.2,US,Chicago - US,4252.8,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1939,4367.6,US,Chicago - US,4310.2,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1940,4425,US,Chicago - US,4367.6,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1941,4482.4,US,Chicago - US,4425,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1942,4539.8,US,Chicago - US,4482.4,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1943,4597.2,US,Chicago - US,4539.8,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1944,4654.6,US,Chicago - US,4597.2,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1945,4712,US,Chicago - US,4654.6,41.85003,-87.6501,#C8BDFF,5
+Chicago,Amérique du Nord,1946,4769.4,US,Chicago - US,4712,41.85003,-87.6501,#C8BDFF,7
+Chicago,Amérique du Nord,1947,4826.8,US,Chicago - US,4769.4,41.85003,-87.6501,#C8BDFF,7
+Chicago,Amérique du Nord,1948,4884.2,US,Chicago - US,4826.8,41.85003,-87.6501,#C8BDFF,7
+Chicago,Amérique du Nord,1949,4941.6,US,Chicago - US,4884.2,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1950,4999,US,Chicago - US,4941.6,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1951,5112.2,US,Chicago - US,4999,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1952,5225.4,US,Chicago - US,5112.2,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1953,5338.6,US,Chicago - US,5225.4,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1954,5451.8,US,Chicago - US,5338.6,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1955,5565,US,Chicago - US,5451.8,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1956,5688.6,US,Chicago - US,5565,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1957,5812.2,US,Chicago - US,5688.6,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1958,5935.8,US,Chicago - US,5812.2,41.85003,-87.6501,#C8BDFF,9
+Chicago,Amérique du Nord,1959,6059.4,US,Chicago - US,5935.8,41.85003,-87.6501,#C8BDFF,9
+Chicago,Amérique du Nord,1960,6183,US,Chicago - US,6059.4,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1961,6274.2,US,Chicago - US,6183,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1962,6365.4,US,Chicago - US,6274.2,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1963,6456.6,US,Chicago - US,6365.4,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1964,6547.8,US,Chicago - US,6456.6,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1965,6639,US,Chicago - US,6547.8,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1966,6828.2,US,Chicago - US,6639,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1967,7017.4,US,Chicago - US,6828.2,41.85003,-87.6501,#C8BDFF,8
+Chicago,Amérique du Nord,1968,7206.6,US,Chicago - US,7017.4,41.85003,-87.6501,#C8BDFF,9
+Chicago,Amérique du Nord,1969,7395.8,US,Chicago - US,7206.6,41.85003,-87.6501,#C8BDFF,9
+Chicago,Amérique du Nord,1970,7585,US,Chicago - US,7395.8,41.85003,-87.6501,#C8BDFF,
+Chicago,Amérique du Nord,1971,7588,US,Chicago - US,7585,41.85003,-87.6501,#C8BDFF,
+Chicago,Amérique du Nord,1972,7591,US,Chicago - US,7588,41.85003,-87.6501,#C8BDFF,
+Chicago,Amérique du Nord,1973,7594,US,Chicago - US,7591,41.85003,-87.6501,#C8BDFF,
 Cuttack,Inde,1500,140,Inde,Cuttack - Inde,140,20.46497,85.87927,#C8BDFF,
 Cuttack,Inde,1501,139,Inde,Cuttack - Inde,140,20.46497,85.87927,#C8BDFF,
 Cuttack,Inde,1502,138,Inde,Cuttack - Inde,139,20.46497,85.87927,#C8BDFF,
@@ -3321,72 +3321,72 @@ Londres,Europe,1972,7771.4666,Grande Bretagne,Londres - Grande Bretagne,7785.399
 Londres,Europe,1973,7757.5334,Grande Bretagne,Londres - Grande Bretagne,7771.4666,51.50853,-0.12574,#C8BDFF,
 Londres,Europe,1974,7743.6002,Grande Bretagne,Londres - Grande Bretagne,7757.5334,51.50853,-0.12574,#C8BDFF,
 Londres,Europe,1975,7729.667,Grande Bretagne,Londres - Grande Bretagne,7743.6002,51.50853,-0.12574,#C8BDFF,
-Los Angeles,Amérique du Nord,1938,2654.48,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,2654.48,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1939,2770.44,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,2654.48,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1940,2886.4,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,2770.44,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1941,3002.36,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,2886.4,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1942,3118.32,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,3002.36,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1943,3234.28,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,3118.32,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1944,3350.24,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,3234.28,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1945,3466.2,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,3350.24,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1946,3582.16,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,3466.2,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1947,3698.12,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,3582.16,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1948,3814.08,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,3698.12,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1949,3930.04,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,3814.08,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1950,4046,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,3930.04,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1951,4267.6,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,4046,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1952,4489.2,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,4267.6,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1953,4710.8,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,4489.2,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1954,4932.4,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,4710.8,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1955,5154,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,4932.4,34.031656,-118.244,#C8BDFF,9
-Los Angeles,Amérique du Nord,1956,5429.2,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,5154,34.031656,-118.244,#C8BDFF,9
-Los Angeles,Amérique du Nord,1957,5704.4,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,5429.2,34.031656,-118.244,#C8BDFF,9
-Los Angeles,Amérique du Nord,1958,5979.6,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,5704.4,34.031656,-118.244,#C8BDFF,8
-Los Angeles,Amérique du Nord,1959,6254.8,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,5979.6,34.031656,-118.244,#C8BDFF,7
-Los Angeles,Amérique du Nord,1960,6530,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,6254.8,34.031656,-118.244,#C8BDFF,7
-Los Angeles,Amérique du Nord,1961,6705.6,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,6530,34.031656,-118.244,#C8BDFF,7
-Los Angeles,Amérique du Nord,1962,6881.2,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,6705.6,34.031656,-118.244,#C8BDFF,6
-Los Angeles,Amérique du Nord,1963,7056.8,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,6881.2,34.031656,-118.244,#C8BDFF,5
-Los Angeles,Amérique du Nord,1964,7232.4,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,7056.8,34.031656,-118.244,#C8BDFF,5
-Los Angeles,Amérique du Nord,1965,7408,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,7232.4,34.031656,-118.244,#C8BDFF,5
-Los Angeles,Amérique du Nord,1966,7668.8,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,7408,34.031656,-118.244,#C8BDFF,5
-Los Angeles,Amérique du Nord,1967,7929.6,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,7668.8,34.031656,-118.244,#C8BDFF,4
-Los Angeles,Amérique du Nord,1968,8190.4,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,7929.6,34.031656,-118.244,#C8BDFF,4
-Los Angeles,Amérique du Nord,1969,8451.2,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,8190.4,34.031656,-118.244,#C8BDFF,5
-Los Angeles,Amérique du Nord,1970,8712,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,8451.2,34.031656,-118.244,#C8BDFF,5
-Los Angeles,Amérique du Nord,1971,8754.8,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,8712,34.031656,-118.244,#C8BDFF,5
-Los Angeles,Amérique du Nord,1972,8797.6,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,8754.8,34.031656,-118.244,#C8BDFF,5
-Los Angeles,Amérique du Nord,1973,8840.4,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,8797.6,34.031656,-118.244,#C8BDFF,5
-Los Angeles,Amérique du Nord,1974,8883.2,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,8840.4,34.031656,-118.244,#C8BDFF,6
-Los Angeles,Amérique du Nord,1975,8926,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,8883.2,34.031656,-118.244,#C8BDFF,6
-Los Angeles,Amérique du Nord,1976,9043.2,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,8926,34.031656,-118.244,#C8BDFF,6
-Los Angeles,Amérique du Nord,1977,9160.4,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,9043.2,34.031656,-118.244,#C8BDFF,5
-Los Angeles,Amérique du Nord,1978,9277.6,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,9160.4,34.031656,-118.244,#C8BDFF,5
-Los Angeles,Amérique du Nord,1979,9394.8,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,9277.6,34.031656,-118.244,#C8BDFF,5
-Los Angeles,Amérique du Nord,1980,9512,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,9394.8,34.031656,-118.244,#C8BDFF,5
-Los Angeles,Amérique du Nord,1981,9645.8,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,9512,34.031656,-118.244,#C8BDFF,5
-Los Angeles,Amérique du Nord,1982,9779.6,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,9645.8,34.031656,-118.244,#C8BDFF,5
-Los Angeles,Amérique du Nord,1983,9913.4,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,9779.6,34.031656,-118.244,#C8BDFF,5
-Los Angeles,Amérique du Nord,1984,10047.2,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,9913.4,34.031656,-118.244,#C8BDFF,6
-Los Angeles,Amérique du Nord,1985,10181,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,10047.2,34.031656,-118.244,#C8BDFF,7
-Los Angeles,Amérique du Nord,1986,10321.4,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,10181,34.031656,-118.244,#C8BDFF,7
-Los Angeles,Amérique du Nord,1987,10461.8,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,10321.4,34.031656,-118.244,#C8BDFF,7
-Los Angeles,Amérique du Nord,1988,10602.2,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,10461.8,34.031656,-118.244,#C8BDFF,7
-Los Angeles,Amérique du Nord,1989,10742.6,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,10602.2,34.031656,-118.244,#C8BDFF,7
-Los Angeles,Amérique du Nord,1990,10883,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,10742.6,34.031656,-118.244,#C8BDFF,8
-Los Angeles,Amérique du Nord,1991,10974.2,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,10883,34.031656,-118.244,#C8BDFF,8
-Los Angeles,Amérique du Nord,1992,11065.4,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,10974.2,34.031656,-118.244,#C8BDFF,8
-Los Angeles,Amérique du Nord,1993,11156.6,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,11065.4,34.031656,-118.244,#C8BDFF,9
-Los Angeles,Amérique du Nord,1994,11247.8,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,11156.6,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1995,11339,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,11247.8,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1996,11430.8,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,11339,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1997,11522.6,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,11430.8,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1998,11614.4,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,11522.6,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,1999,11706.2,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,11614.4,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,2000,11798,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,11706.2,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,2001,11834,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,11798,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,2002,11870,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,11834,34.031656,-118.244,#C8BDFF,
-Los Angeles,Amérique du Nord,2003,11906,Etats-Unis d'Amérique,Los Angeles - Etats-Unis d'Amérique,11870,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1938,2654.48,US,Los Angeles - US,2654.48,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1939,2770.44,US,Los Angeles - US,2654.48,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1940,2886.4,US,Los Angeles - US,2770.44,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1941,3002.36,US,Los Angeles - US,2886.4,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1942,3118.32,US,Los Angeles - US,3002.36,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1943,3234.28,US,Los Angeles - US,3118.32,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1944,3350.24,US,Los Angeles - US,3234.28,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1945,3466.2,US,Los Angeles - US,3350.24,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1946,3582.16,US,Los Angeles - US,3466.2,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1947,3698.12,US,Los Angeles - US,3582.16,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1948,3814.08,US,Los Angeles - US,3698.12,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1949,3930.04,US,Los Angeles - US,3814.08,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1950,4046,US,Los Angeles - US,3930.04,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1951,4267.6,US,Los Angeles - US,4046,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1952,4489.2,US,Los Angeles - US,4267.6,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1953,4710.8,US,Los Angeles - US,4489.2,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1954,4932.4,US,Los Angeles - US,4710.8,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1955,5154,US,Los Angeles - US,4932.4,34.031656,-118.244,#C8BDFF,9
+Los Angeles,Amérique du Nord,1956,5429.2,US,Los Angeles - US,5154,34.031656,-118.244,#C8BDFF,9
+Los Angeles,Amérique du Nord,1957,5704.4,US,Los Angeles - US,5429.2,34.031656,-118.244,#C8BDFF,9
+Los Angeles,Amérique du Nord,1958,5979.6,US,Los Angeles - US,5704.4,34.031656,-118.244,#C8BDFF,8
+Los Angeles,Amérique du Nord,1959,6254.8,US,Los Angeles - US,5979.6,34.031656,-118.244,#C8BDFF,7
+Los Angeles,Amérique du Nord,1960,6530,US,Los Angeles - US,6254.8,34.031656,-118.244,#C8BDFF,7
+Los Angeles,Amérique du Nord,1961,6705.6,US,Los Angeles - US,6530,34.031656,-118.244,#C8BDFF,7
+Los Angeles,Amérique du Nord,1962,6881.2,US,Los Angeles - US,6705.6,34.031656,-118.244,#C8BDFF,6
+Los Angeles,Amérique du Nord,1963,7056.8,US,Los Angeles - US,6881.2,34.031656,-118.244,#C8BDFF,5
+Los Angeles,Amérique du Nord,1964,7232.4,US,Los Angeles - US,7056.8,34.031656,-118.244,#C8BDFF,5
+Los Angeles,Amérique du Nord,1965,7408,US,Los Angeles - US,7232.4,34.031656,-118.244,#C8BDFF,5
+Los Angeles,Amérique du Nord,1966,7668.8,US,Los Angeles - US,7408,34.031656,-118.244,#C8BDFF,5
+Los Angeles,Amérique du Nord,1967,7929.6,US,Los Angeles - US,7668.8,34.031656,-118.244,#C8BDFF,4
+Los Angeles,Amérique du Nord,1968,8190.4,US,Los Angeles - US,7929.6,34.031656,-118.244,#C8BDFF,4
+Los Angeles,Amérique du Nord,1969,8451.2,US,Los Angeles - US,8190.4,34.031656,-118.244,#C8BDFF,5
+Los Angeles,Amérique du Nord,1970,8712,US,Los Angeles - US,8451.2,34.031656,-118.244,#C8BDFF,5
+Los Angeles,Amérique du Nord,1971,8754.8,US,Los Angeles - US,8712,34.031656,-118.244,#C8BDFF,5
+Los Angeles,Amérique du Nord,1972,8797.6,US,Los Angeles - US,8754.8,34.031656,-118.244,#C8BDFF,5
+Los Angeles,Amérique du Nord,1973,8840.4,US,Los Angeles - US,8797.6,34.031656,-118.244,#C8BDFF,5
+Los Angeles,Amérique du Nord,1974,8883.2,US,Los Angeles - US,8840.4,34.031656,-118.244,#C8BDFF,6
+Los Angeles,Amérique du Nord,1975,8926,US,Los Angeles - US,8883.2,34.031656,-118.244,#C8BDFF,6
+Los Angeles,Amérique du Nord,1976,9043.2,US,Los Angeles - US,8926,34.031656,-118.244,#C8BDFF,6
+Los Angeles,Amérique du Nord,1977,9160.4,US,Los Angeles - US,9043.2,34.031656,-118.244,#C8BDFF,5
+Los Angeles,Amérique du Nord,1978,9277.6,US,Los Angeles - US,9160.4,34.031656,-118.244,#C8BDFF,5
+Los Angeles,Amérique du Nord,1979,9394.8,US,Los Angeles - US,9277.6,34.031656,-118.244,#C8BDFF,5
+Los Angeles,Amérique du Nord,1980,9512,US,Los Angeles - US,9394.8,34.031656,-118.244,#C8BDFF,5
+Los Angeles,Amérique du Nord,1981,9645.8,US,Los Angeles - US,9512,34.031656,-118.244,#C8BDFF,5
+Los Angeles,Amérique du Nord,1982,9779.6,US,Los Angeles - US,9645.8,34.031656,-118.244,#C8BDFF,5
+Los Angeles,Amérique du Nord,1983,9913.4,US,Los Angeles - US,9779.6,34.031656,-118.244,#C8BDFF,5
+Los Angeles,Amérique du Nord,1984,10047.2,US,Los Angeles - US,9913.4,34.031656,-118.244,#C8BDFF,6
+Los Angeles,Amérique du Nord,1985,10181,US,Los Angeles - US,10047.2,34.031656,-118.244,#C8BDFF,7
+Los Angeles,Amérique du Nord,1986,10321.4,US,Los Angeles - US,10181,34.031656,-118.244,#C8BDFF,7
+Los Angeles,Amérique du Nord,1987,10461.8,US,Los Angeles - US,10321.4,34.031656,-118.244,#C8BDFF,7
+Los Angeles,Amérique du Nord,1988,10602.2,US,Los Angeles - US,10461.8,34.031656,-118.244,#C8BDFF,7
+Los Angeles,Amérique du Nord,1989,10742.6,US,Los Angeles - US,10602.2,34.031656,-118.244,#C8BDFF,7
+Los Angeles,Amérique du Nord,1990,10883,US,Los Angeles - US,10742.6,34.031656,-118.244,#C8BDFF,8
+Los Angeles,Amérique du Nord,1991,10974.2,US,Los Angeles - US,10883,34.031656,-118.244,#C8BDFF,8
+Los Angeles,Amérique du Nord,1992,11065.4,US,Los Angeles - US,10974.2,34.031656,-118.244,#C8BDFF,8
+Los Angeles,Amérique du Nord,1993,11156.6,US,Los Angeles - US,11065.4,34.031656,-118.244,#C8BDFF,9
+Los Angeles,Amérique du Nord,1994,11247.8,US,Los Angeles - US,11156.6,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1995,11339,US,Los Angeles - US,11247.8,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1996,11430.8,US,Los Angeles - US,11339,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1997,11522.6,US,Los Angeles - US,11430.8,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1998,11614.4,US,Los Angeles - US,11522.6,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,1999,11706.2,US,Los Angeles - US,11614.4,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,2000,11798,US,Los Angeles - US,11706.2,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,2001,11834,US,Los Angeles - US,11798,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,2002,11870,US,Los Angeles - US,11834,34.031656,-118.244,#C8BDFF,
+Los Angeles,Amérique du Nord,2003,11906,US,Los Angeles - US,11870,34.031656,-118.244,#C8BDFF,
 Lucknow,Inde,1802,248,Inde,Lucknow - Inde,248,26.83928,80.91667,#C8BDFF,
 Lucknow,Inde,1803,252,Inde,Lucknow - Inde,248,26.83928,80.91667,#C8BDFF,
 Lucknow,Inde,1804,256,Inde,Lucknow - Inde,252,26.83928,80.91667,#C8BDFF,
@@ -3576,94 +3576,94 @@ Mexico,Amérique Latine,2017,21346.6,Mexique,Mexico - Mexique,21172.8,19.427318,
 Mexico,Amérique Latine,2018,21520.4,Mexique,Mexico - Mexique,21346.6,19.427318,-99.141869,#C8BDFF,6
 Mexico,Amérique Latine,2019,21694.2,Mexique,Mexico - Mexique,21520.4,19.427318,-99.141869,#C8BDFF,
 Mexico,Amérique Latine,2020,21868,Mexique,Mexico - Mexique,21694.2,19.427318,-99.141869,#C8BDFF,
-Moscou,Europe,1791,230.5,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,230.5,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1792,232.4444444,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,230.5,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1793,234.3888889,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,232.4444444,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1794,236.3333333,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,234.3888889,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1795,238.2777778,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,236.3333333,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1796,240.2222222,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,238.2777778,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1797,242.1666667,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,240.2222222,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1798,244.1111111,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,242.1666667,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1799,246.0555556,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,244.1111111,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1800,248,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,246.0555556,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1801,250.0167273,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,248,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1802,252.0334545,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,250.0167273,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1803,254.0501818,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,252.0334545,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1804,256.0669091,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,254.0501818,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1899,1099.2,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,256.0669091,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1900,1120,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1099.2,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1901,1168.928571,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1120,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1902,1217.857143,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1168.928571,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1903,1266.785714,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1217.857143,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1904,1315.714286,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1266.785714,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1905,1364.642857,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1315.714286,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1906,1413.571429,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1364.642857,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1907,1462.5,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1413.571429,55.75222,37.61556,#C8BDFF,9
-Moscou,Europe,1908,1511.428571,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1462.5,55.75222,37.61556,#C8BDFF,9
-Moscou,Europe,1909,1560.357143,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1511.428571,55.75222,37.61556,#C8BDFF,8
-Moscou,Europe,1910,1609.285714,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1560.357143,55.75222,37.61556,#C8BDFF,8
-Moscou,Europe,1911,1658.214286,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1609.285714,55.75222,37.61556,#C8BDFF,8
-Moscou,Europe,1912,1707.142857,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1658.214286,55.75222,37.61556,#C8BDFF,8
-Moscou,Europe,1913,1756.071429,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1707.142857,55.75222,37.61556,#C8BDFF,7
-Moscou,Europe,1914,1805,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1756.071429,55.75222,37.61556,#C8BDFF,6
-Moscou,Europe,1915,1801.272727,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1805,55.75222,37.61556,#C8BDFF,6
-Moscou,Europe,1916,1797.545455,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1801.272727,55.75222,37.61556,#C8BDFF,8
-Moscou,Europe,1917,1793.818182,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1797.545455,55.75222,37.61556,#C8BDFF,9
-Moscou,Europe,1918,1790.090909,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1793.818182,55.75222,37.61556,#C8BDFF,9
-Moscou,Europe,1919,1786.363636,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1790.090909,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1920,1782.636364,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1786.363636,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1921,1778.909091,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1782.636364,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1922,1775.181818,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1778.909091,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1923,1771.454545,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1775.181818,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1924,1767.727273,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1771.454545,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1925,1764,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1767.727273,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1926,1907.68,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1764,55.75222,37.61556,#C8BDFF,9
-Moscou,Europe,1927,2051.36,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,1907.68,55.75222,37.61556,#C8BDFF,9
-Moscou,Europe,1928,2195.04,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,2051.36,55.75222,37.61556,#C8BDFF,9
-Moscou,Europe,1929,2338.72,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,2195.04,55.75222,37.61556,#C8BDFF,8
-Moscou,Europe,1930,2482.4,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,2338.72,55.75222,37.61556,#C8BDFF,8
-Moscou,Europe,1931,2626.08,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,2482.4,55.75222,37.61556,#C8BDFF,8
-Moscou,Europe,1932,2769.76,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,2626.08,55.75222,37.61556,#C8BDFF,8
-Moscou,Europe,1933,2913.44,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,2769.76,55.75222,37.61556,#C8BDFF,8
-Moscou,Europe,1934,3057.12,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,2913.44,55.75222,37.61556,#C8BDFF,8
-Moscou,Europe,1935,3200.8,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,3057.12,55.75222,37.61556,#C8BDFF,8
-Moscou,Europe,1936,3344.48,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,3200.8,55.75222,37.61556,#C8BDFF,8
-Moscou,Europe,1937,3488.16,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,3344.48,55.75222,37.61556,#C8BDFF,8
-Moscou,Europe,1938,3631.84,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,3488.16,55.75222,37.61556,#C8BDFF,8
-Moscou,Europe,1939,3775.52,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,3631.84,55.75222,37.61556,#C8BDFF,8
-Moscou,Europe,1940,3919.2,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,3775.52,55.75222,37.61556,#C8BDFF,7
-Moscou,Europe,1941,4062.88,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,3919.2,55.75222,37.61556,#C8BDFF,7
-Moscou,Europe,1942,4206.56,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,4062.88,55.75222,37.61556,#C8BDFF,7
-Moscou,Europe,1943,4350.24,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,4206.56,55.75222,37.61556,#C8BDFF,6
-Moscou,Europe,1944,4493.92,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,4350.24,55.75222,37.61556,#C8BDFF,6
-Moscou,Europe,1945,4637.6,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,4493.92,55.75222,37.61556,#C8BDFF,6
-Moscou,Europe,1946,4781.28,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,4637.6,55.75222,37.61556,#C8BDFF,5
-Moscou,Europe,1947,4924.96,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,4781.28,55.75222,37.61556,#C8BDFF,6
-Moscou,Europe,1948,5068.64,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,4924.96,55.75222,37.61556,#C8BDFF,6
-Moscou,Europe,1949,5212.32,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,5068.64,55.75222,37.61556,#C8BDFF,6
-Moscou,Europe,1950,5356,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,5212.32,55.75222,37.61556,#C8BDFF,6
-Moscou,Europe,1951,5434.6,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,5356,55.75222,37.61556,#C8BDFF,6
-Moscou,Europe,1952,5513.2,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,5434.6,55.75222,37.61556,#C8BDFF,6
-Moscou,Europe,1953,5591.8,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,5513.2,55.75222,37.61556,#C8BDFF,6
-Moscou,Europe,1954,5670.4,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,5591.8,55.75222,37.61556,#C8BDFF,6
-Moscou,Europe,1955,5749,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,5670.4,55.75222,37.61556,#C8BDFF,7
-Moscou,Europe,1956,5833.2,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,5749,55.75222,37.61556,#C8BDFF,7
-Moscou,Europe,1957,5917.4,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,5833.2,55.75222,37.61556,#C8BDFF,7
-Moscou,Europe,1958,6001.6,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,5917.4,55.75222,37.61556,#C8BDFF,7
-Moscou,Europe,1959,6085.8,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,6001.6,55.75222,37.61556,#C8BDFF,8
-Moscou,Europe,1960,6170,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,6085.8,55.75222,37.61556,#C8BDFF,9
-Moscou,Europe,1961,6260.4,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,6170,55.75222,37.61556,#C8BDFF,9
-Moscou,Europe,1962,6350.8,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,6260.4,55.75222,37.61556,#C8BDFF,9
-Moscou,Europe,1963,6441.2,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,6350.8,55.75222,37.61556,#C8BDFF,9
-Moscou,Europe,1964,6531.6,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,6441.2,55.75222,37.61556,#C8BDFF,9
-Moscou,Europe,1965,6622,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,6531.6,55.75222,37.61556,#C8BDFF,9
-Moscou,Europe,1966,6718.8,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,6622,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1967,6815.6,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,6718.8,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1968,6912.4,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,6815.6,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1969,7009.2,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,6912.4,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1970,7106,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,7009.2,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1976,7725.6,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,7106,55.75222,37.61556,#C8BDFF,
-Moscou,Europe,1977,7828.2,REtats-Unis d'Amériquesie,Moscou - REtats-Unis d'Amériquesie,7725.6,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1791,230.5,Russie,Moscou - Russie,230.5,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1792,232.4444444,Russie,Moscou - Russie,230.5,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1793,234.3888889,Russie,Moscou - Russie,232.4444444,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1794,236.3333333,Russie,Moscou - Russie,234.3888889,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1795,238.2777778,Russie,Moscou - Russie,236.3333333,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1796,240.2222222,Russie,Moscou - Russie,238.2777778,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1797,242.1666667,Russie,Moscou - Russie,240.2222222,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1798,244.1111111,Russie,Moscou - Russie,242.1666667,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1799,246.0555556,Russie,Moscou - Russie,244.1111111,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1800,248,Russie,Moscou - Russie,246.0555556,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1801,250.0167273,Russie,Moscou - Russie,248,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1802,252.0334545,Russie,Moscou - Russie,250.0167273,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1803,254.0501818,Russie,Moscou - Russie,252.0334545,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1804,256.0669091,Russie,Moscou - Russie,254.0501818,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1899,1099.2,Russie,Moscou - Russie,256.0669091,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1900,1120,Russie,Moscou - Russie,1099.2,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1901,1168.928571,Russie,Moscou - Russie,1120,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1902,1217.857143,Russie,Moscou - Russie,1168.928571,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1903,1266.785714,Russie,Moscou - Russie,1217.857143,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1904,1315.714286,Russie,Moscou - Russie,1266.785714,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1905,1364.642857,Russie,Moscou - Russie,1315.714286,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1906,1413.571429,Russie,Moscou - Russie,1364.642857,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1907,1462.5,Russie,Moscou - Russie,1413.571429,55.75222,37.61556,#C8BDFF,9
+Moscou,Europe,1908,1511.428571,Russie,Moscou - Russie,1462.5,55.75222,37.61556,#C8BDFF,9
+Moscou,Europe,1909,1560.357143,Russie,Moscou - Russie,1511.428571,55.75222,37.61556,#C8BDFF,8
+Moscou,Europe,1910,1609.285714,Russie,Moscou - Russie,1560.357143,55.75222,37.61556,#C8BDFF,8
+Moscou,Europe,1911,1658.214286,Russie,Moscou - Russie,1609.285714,55.75222,37.61556,#C8BDFF,8
+Moscou,Europe,1912,1707.142857,Russie,Moscou - Russie,1658.214286,55.75222,37.61556,#C8BDFF,8
+Moscou,Europe,1913,1756.071429,Russie,Moscou - Russie,1707.142857,55.75222,37.61556,#C8BDFF,7
+Moscou,Europe,1914,1805,Russie,Moscou - Russie,1756.071429,55.75222,37.61556,#C8BDFF,6
+Moscou,Europe,1915,1801.272727,Russie,Moscou - Russie,1805,55.75222,37.61556,#C8BDFF,6
+Moscou,Europe,1916,1797.545455,Russie,Moscou - Russie,1801.272727,55.75222,37.61556,#C8BDFF,8
+Moscou,Europe,1917,1793.818182,Russie,Moscou - Russie,1797.545455,55.75222,37.61556,#C8BDFF,9
+Moscou,Europe,1918,1790.090909,Russie,Moscou - Russie,1793.818182,55.75222,37.61556,#C8BDFF,9
+Moscou,Europe,1919,1786.363636,Russie,Moscou - Russie,1790.090909,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1920,1782.636364,Russie,Moscou - Russie,1786.363636,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1921,1778.909091,Russie,Moscou - Russie,1782.636364,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1922,1775.181818,Russie,Moscou - Russie,1778.909091,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1923,1771.454545,Russie,Moscou - Russie,1775.181818,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1924,1767.727273,Russie,Moscou - Russie,1771.454545,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1925,1764,Russie,Moscou - Russie,1767.727273,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1926,1907.68,Russie,Moscou - Russie,1764,55.75222,37.61556,#C8BDFF,9
+Moscou,Europe,1927,2051.36,Russie,Moscou - Russie,1907.68,55.75222,37.61556,#C8BDFF,9
+Moscou,Europe,1928,2195.04,Russie,Moscou - Russie,2051.36,55.75222,37.61556,#C8BDFF,9
+Moscou,Europe,1929,2338.72,Russie,Moscou - Russie,2195.04,55.75222,37.61556,#C8BDFF,8
+Moscou,Europe,1930,2482.4,Russie,Moscou - Russie,2338.72,55.75222,37.61556,#C8BDFF,8
+Moscou,Europe,1931,2626.08,Russie,Moscou - Russie,2482.4,55.75222,37.61556,#C8BDFF,8
+Moscou,Europe,1932,2769.76,Russie,Moscou - Russie,2626.08,55.75222,37.61556,#C8BDFF,8
+Moscou,Europe,1933,2913.44,Russie,Moscou - Russie,2769.76,55.75222,37.61556,#C8BDFF,8
+Moscou,Europe,1934,3057.12,Russie,Moscou - Russie,2913.44,55.75222,37.61556,#C8BDFF,8
+Moscou,Europe,1935,3200.8,Russie,Moscou - Russie,3057.12,55.75222,37.61556,#C8BDFF,8
+Moscou,Europe,1936,3344.48,Russie,Moscou - Russie,3200.8,55.75222,37.61556,#C8BDFF,8
+Moscou,Europe,1937,3488.16,Russie,Moscou - Russie,3344.48,55.75222,37.61556,#C8BDFF,8
+Moscou,Europe,1938,3631.84,Russie,Moscou - Russie,3488.16,55.75222,37.61556,#C8BDFF,8
+Moscou,Europe,1939,3775.52,Russie,Moscou - Russie,3631.84,55.75222,37.61556,#C8BDFF,8
+Moscou,Europe,1940,3919.2,Russie,Moscou - Russie,3775.52,55.75222,37.61556,#C8BDFF,7
+Moscou,Europe,1941,4062.88,Russie,Moscou - Russie,3919.2,55.75222,37.61556,#C8BDFF,7
+Moscou,Europe,1942,4206.56,Russie,Moscou - Russie,4062.88,55.75222,37.61556,#C8BDFF,7
+Moscou,Europe,1943,4350.24,Russie,Moscou - Russie,4206.56,55.75222,37.61556,#C8BDFF,6
+Moscou,Europe,1944,4493.92,Russie,Moscou - Russie,4350.24,55.75222,37.61556,#C8BDFF,6
+Moscou,Europe,1945,4637.6,Russie,Moscou - Russie,4493.92,55.75222,37.61556,#C8BDFF,6
+Moscou,Europe,1946,4781.28,Russie,Moscou - Russie,4637.6,55.75222,37.61556,#C8BDFF,5
+Moscou,Europe,1947,4924.96,Russie,Moscou - Russie,4781.28,55.75222,37.61556,#C8BDFF,6
+Moscou,Europe,1948,5068.64,Russie,Moscou - Russie,4924.96,55.75222,37.61556,#C8BDFF,6
+Moscou,Europe,1949,5212.32,Russie,Moscou - Russie,5068.64,55.75222,37.61556,#C8BDFF,6
+Moscou,Europe,1950,5356,Russie,Moscou - Russie,5212.32,55.75222,37.61556,#C8BDFF,6
+Moscou,Europe,1951,5434.6,Russie,Moscou - Russie,5356,55.75222,37.61556,#C8BDFF,6
+Moscou,Europe,1952,5513.2,Russie,Moscou - Russie,5434.6,55.75222,37.61556,#C8BDFF,6
+Moscou,Europe,1953,5591.8,Russie,Moscou - Russie,5513.2,55.75222,37.61556,#C8BDFF,6
+Moscou,Europe,1954,5670.4,Russie,Moscou - Russie,5591.8,55.75222,37.61556,#C8BDFF,6
+Moscou,Europe,1955,5749,Russie,Moscou - Russie,5670.4,55.75222,37.61556,#C8BDFF,7
+Moscou,Europe,1956,5833.2,Russie,Moscou - Russie,5749,55.75222,37.61556,#C8BDFF,7
+Moscou,Europe,1957,5917.4,Russie,Moscou - Russie,5833.2,55.75222,37.61556,#C8BDFF,7
+Moscou,Europe,1958,6001.6,Russie,Moscou - Russie,5917.4,55.75222,37.61556,#C8BDFF,7
+Moscou,Europe,1959,6085.8,Russie,Moscou - Russie,6001.6,55.75222,37.61556,#C8BDFF,8
+Moscou,Europe,1960,6170,Russie,Moscou - Russie,6085.8,55.75222,37.61556,#C8BDFF,9
+Moscou,Europe,1961,6260.4,Russie,Moscou - Russie,6170,55.75222,37.61556,#C8BDFF,9
+Moscou,Europe,1962,6350.8,Russie,Moscou - Russie,6260.4,55.75222,37.61556,#C8BDFF,9
+Moscou,Europe,1963,6441.2,Russie,Moscou - Russie,6350.8,55.75222,37.61556,#C8BDFF,9
+Moscou,Europe,1964,6531.6,Russie,Moscou - Russie,6441.2,55.75222,37.61556,#C8BDFF,9
+Moscou,Europe,1965,6622,Russie,Moscou - Russie,6531.6,55.75222,37.61556,#C8BDFF,9
+Moscou,Europe,1966,6718.8,Russie,Moscou - Russie,6622,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1967,6815.6,Russie,Moscou - Russie,6718.8,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1968,6912.4,Russie,Moscou - Russie,6815.6,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1969,7009.2,Russie,Moscou - Russie,6912.4,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1970,7106,Russie,Moscou - Russie,7009.2,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1976,7725.6,Russie,Moscou - Russie,7106,55.75222,37.61556,#C8BDFF,
+Moscou,Europe,1977,7828.2,Russie,Moscou - Russie,7725.6,55.75222,37.61556,#C8BDFF,
 Mumbai,Inde,1837,355.2743043,Inde,Mumbai - Inde,355.2743043,19.07283,72.880838,#C8BDFF,
 Mumbai,Inde,1838,372.8446957,Inde,Mumbai - Inde,355.2743043,19.07283,72.880838,#C8BDFF,
 Mumbai,Inde,1839,390.415087,Inde,Mumbai - Inde,372.8446957,19.07283,72.880838,#C8BDFF,9
@@ -4142,193 +4142,193 @@ Naples,Europe,1842,393.19105,Italie,Naples - Italie,390.6504,40.851775,14.26812,
 Naples,Europe,1843,395.7317,Italie,Naples - Italie,393.19105,40.851775,14.26812,#C8BDFF,
 Naples,Europe,1844,398.27235,Italie,Naples - Italie,395.7317,40.851775,14.26812,#C8BDFF,
 Naples,Europe,1845,400.813,Italie,Naples - Italie,398.27235,40.851775,14.26812,#C8BDFF,
-New York,Amérique du Nord,1834,341.3042,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,341.3042,40.71435,-74.006,#C8BDFF,
-New York,Amérique du Nord,1835,360.338,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,341.3042,40.71435,-74.006,#C8BDFF,9
-New York,Amérique du Nord,1836,379.3718,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,360.338,40.71435,-74.006,#C8BDFF,8
-New York,Amérique du Nord,1837,398.4056,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,379.3718,40.71435,-74.006,#C8BDFF,8
-New York,Amérique du Nord,1838,417.4394,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,398.4056,40.71435,-74.006,#C8BDFF,8
-New York,Amérique du Nord,1839,436.4732,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,417.4394,40.71435,-74.006,#C8BDFF,7
-New York,Amérique du Nord,1840,455.507,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,436.4732,40.71435,-74.006,#C8BDFF,7
-New York,Amérique du Nord,1841,474.5408,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,455.507,40.71435,-74.006,#C8BDFF,6
-New York,Amérique du Nord,1842,493.5746,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,474.5408,40.71435,-74.006,#C8BDFF,6
-New York,Amérique du Nord,1843,512.6084,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,493.5746,40.71435,-74.006,#C8BDFF,6
-New York,Amérique du Nord,1844,531.6422,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,512.6084,40.71435,-74.006,#C8BDFF,6
-New York,Amérique du Nord,1845,550.676,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,531.6422,40.71435,-74.006,#C8BDFF,6
-New York,Amérique du Nord,1846,569.7098,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,550.676,40.71435,-74.006,#C8BDFF,6
-New York,Amérique du Nord,1847,588.7436,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,569.7098,40.71435,-74.006,#C8BDFF,6
-New York,Amérique du Nord,1848,607.7774,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,588.7436,40.71435,-74.006,#C8BDFF,6
-New York,Amérique du Nord,1849,626.8112,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,607.7774,40.71435,-74.006,#C8BDFF,6
-New York,Amérique du Nord,1850,645.845,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,626.8112,40.71435,-74.006,#C8BDFF,6
-New York,Amérique du Nord,1851,696.0112,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,645.845,40.71435,-74.006,#C8BDFF,6
-New York,Amérique du Nord,1852,746.1774,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,696.0112,40.71435,-74.006,#C8BDFF,6
-New York,Amérique du Nord,1853,796.3436,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,746.1774,40.71435,-74.006,#C8BDFF,4
-New York,Amérique du Nord,1854,846.5098,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,796.3436,40.71435,-74.006,#C8BDFF,4
-New York,Amérique du Nord,1855,896.676,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,846.5098,40.71435,-74.006,#C8BDFF,3
-New York,Amérique du Nord,1856,946.8422,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,896.676,40.71435,-74.006,#C8BDFF,3
-New York,Amérique du Nord,1857,997.0084,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,946.8422,40.71435,-74.006,#C8BDFF,3
-New York,Amérique du Nord,1858,1047.1746,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,997.0084,40.71435,-74.006,#C8BDFF,3
-New York,Amérique du Nord,1859,1097.3408,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,1047.1746,40.71435,-74.006,#C8BDFF,3
-New York,Amérique du Nord,1860,1147.507,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,1097.3408,40.71435,-74.006,#C8BDFF,3
-New York,Amérique du Nord,1861,1197.6732,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,1147.507,40.71435,-74.006,#C8BDFF,3
-New York,Amérique du Nord,1862,1247.8394,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,1197.6732,40.71435,-74.006,#C8BDFF,3
-New York,Amérique du Nord,1863,1298.0056,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,1247.8394,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1864,1348.1718,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,1298.0056,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1865,1398.338,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,1348.1718,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1866,1448.5042,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,1398.338,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1867,1498.6704,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,1448.5042,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1868,1548.8366,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,1498.6704,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1869,1599.0028,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,1548.8366,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1870,1649.169,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,1599.0028,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1871,1699.3352,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,1649.169,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1872,1749.5014,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,1699.3352,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1873,1799.6676,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,1749.5014,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1874,1849.8338,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,1799.6676,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1875,1900,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,1849.8338,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1876,1993.68,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,1900,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1877,2087.36,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,1993.68,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1878,2181.04,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,2087.36,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1879,2274.72,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,2181.04,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1880,2368.4,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,2274.72,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1881,2462.08,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,2368.4,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1882,2555.76,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,2462.08,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1883,2649.44,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,2555.76,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1884,2743.12,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,2649.44,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1885,2836.8,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,2743.12,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1886,2930.48,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,2836.8,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1887,3024.16,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,2930.48,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1888,3117.84,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,3024.16,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1889,3211.52,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,3117.84,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1890,3305.2,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,3211.52,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1891,3398.88,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,3305.2,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1892,3492.56,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,3398.88,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1893,3586.24,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,3492.56,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1894,3679.92,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,3586.24,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1895,3773.6,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,3679.92,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1896,3867.28,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,3773.6,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1897,3960.96,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,3867.28,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1898,4054.64,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,3960.96,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1899,4148.32,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,4054.64,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1900,4242,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,4148.32,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1901,4417.571429,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,4242,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1902,4593.142857,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,4417.571429,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1903,4768.714286,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,4593.142857,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1904,4944.285714,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,4768.714286,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1905,5119.857143,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,4944.285714,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1906,5295.428571,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,5119.857143,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1907,5471,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,5295.428571,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1908,5646.571429,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,5471,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1909,5822.142857,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,5646.571429,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1910,5997.714286,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,5822.142857,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1911,6173.285714,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,5997.714286,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1912,6348.857143,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,6173.285714,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1913,6524.428571,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,6348.857143,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1914,6700,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,6524.428571,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1915,6797.636364,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,6700,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1916,6895.272727,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,6797.636364,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1917,6992.909091,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,6895.272727,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1918,7090.545455,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,6992.909091,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1919,7188.181818,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,7090.545455,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1920,7285.818182,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,7188.181818,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1921,7383.454545,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,7285.818182,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1922,7481.090909,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,7383.454545,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1923,7578.727273,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,7481.090909,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1924,7676.363636,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,7578.727273,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1925,7774,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,7676.363636,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1926,7961.56,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,7774,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1927,8149.12,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,7961.56,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1928,8336.68,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,8149.12,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1929,8524.24,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,8336.68,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1930,8711.8,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,8524.24,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1931,8899.36,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,8711.8,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1932,9086.92,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,8899.36,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1933,9274.48,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,9086.92,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1934,9462.04,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,9274.48,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1935,9649.6,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,9462.04,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1936,9837.16,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,9649.6,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1937,10024.72,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,9837.16,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1938,10212.28,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,10024.72,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1939,10399.84,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,10212.28,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1940,10587.4,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,10399.84,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1941,10774.96,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,10587.4,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1942,10962.52,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,10774.96,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1943,11150.08,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,10962.52,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1944,11337.64,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,11150.08,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1945,11525.2,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,11337.64,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1946,11712.76,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,11525.2,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1947,11900.32,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,11712.76,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1948,12087.88,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,11900.32,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1949,12275.44,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,12087.88,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1950,12463,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,12275.44,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1951,12614.2,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,12463,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1952,12765.4,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,12614.2,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1953,12916.6,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,12765.4,40.71435,-74.006,#C8BDFF,0
-New York,Amérique du Nord,1954,13067.8,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,12916.6,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1955,13219,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,13067.8,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1956,13408,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,13219,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1957,13597,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,13408,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1958,13786,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,13597,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1959,13975,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,13786,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1960,14164,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,13975,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1961,14366.6,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,14164,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1962,14569.2,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,14366.6,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1963,14771.8,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,14569.2,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1964,14974.4,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,14771.8,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1965,15177,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,14974.4,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1966,15592,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,15177,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1967,16007,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,15592,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1968,16422,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,16007,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1969,16837,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,16422,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1970,17252,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,16837,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1971,17221.6,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,17252,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1972,17191.2,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,17221.6,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1973,17160.8,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,17191.2,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1974,17130.4,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,17160.8,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1975,17100,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,17130.4,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1976,16800.2,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,17100,40.71435,-74.006,#C8BDFF,1
-New York,Amérique du Nord,1977,16500.4,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,16800.2,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1978,16200.6,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,16500.4,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1979,15900.8,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,16200.6,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1980,15601,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,15900.8,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1981,15646.2,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,15601,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1982,15691.4,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,15646.2,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1983,15736.6,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,15691.4,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1984,15781.8,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,15736.6,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1985,15827,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,15781.8,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1986,15878.8,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,15827,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1987,15930.6,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,15878.8,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1988,15982.4,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,15930.6,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1989,16034.2,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,15982.4,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1990,16086,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,16034.2,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1991,16257.4,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,16086,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1992,16428.8,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,16257.4,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1993,16600.2,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,16428.8,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1994,16771.6,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,16600.2,40.71435,-74.006,#C8BDFF,2
-New York,Amérique du Nord,1995,16943,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,16771.6,40.71435,-74.006,#C8BDFF,3
-New York,Amérique du Nord,1996,17117,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,16943,40.71435,-74.006,#C8BDFF,3
-New York,Amérique du Nord,1997,17291,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,17117,40.71435,-74.006,#C8BDFF,3
-New York,Amérique du Nord,1998,17465,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,17291,40.71435,-74.006,#C8BDFF,3
-New York,Amérique du Nord,1999,17639,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,17465,40.71435,-74.006,#C8BDFF,3
-New York,Amérique du Nord,2000,17813,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,17639,40.71435,-74.006,#C8BDFF,3
-New York,Amérique du Nord,2001,17867.8,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,17813,40.71435,-74.006,#C8BDFF,3
-New York,Amérique du Nord,2002,17922.6,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,17867.8,40.71435,-74.006,#C8BDFF,3
-New York,Amérique du Nord,2003,17977.4,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,17922.6,40.71435,-74.006,#C8BDFF,3
-New York,Amérique du Nord,2004,18032.2,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,17977.4,40.71435,-74.006,#C8BDFF,5
-New York,Amérique du Nord,2005,18087,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,18032.2,40.71435,-74.006,#C8BDFF,5
-New York,Amérique du Nord,2006,18142.6,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,18087,40.71435,-74.006,#C8BDFF,6
-New York,Amérique du Nord,2007,18198.2,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,18142.6,40.71435,-74.006,#C8BDFF,6
-New York,Amérique du Nord,2008,18253.8,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,18198.2,40.71435,-74.006,#C8BDFF,7
-New York,Amérique du Nord,2009,18309.4,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,18253.8,40.71435,-74.006,#C8BDFF,7
-New York,Amérique du Nord,2010,18365,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,18309.4,40.71435,-74.006,#C8BDFF,7
-New York,Amérique du Nord,2011,18410.6,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,18365,40.71435,-74.006,#C8BDFF,7
-New York,Amérique du Nord,2012,18456.2,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,18410.6,40.71435,-74.006,#C8BDFF,7
-New York,Amérique du Nord,2013,18501.8,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,18456.2,40.71435,-74.006,#C8BDFF,8
-New York,Amérique du Nord,2014,18547.4,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,18501.8,40.71435,-74.006,#C8BDFF,8
-New York,Amérique du Nord,2015,18593,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,18547.4,40.71435,-74.006,#C8BDFF,9
-New York,Amérique du Nord,2016,18633,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,18593,40.71435,-74.006,#C8BDFF,9
-New York,Amérique du Nord,2017,18673,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,18633,40.71435,-74.006,#C8BDFF,
-New York,Amérique du Nord,2018,18713,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,18673,40.71435,-74.006,#C8BDFF,
-New York,Amérique du Nord,2019,18753,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,18713,40.71435,-74.006,#C8BDFF,
-New York,Amérique du Nord,2020,18793,Etats-Unis d'Amérique,New York - Etats-Unis d'Amérique,18753,40.71435,-74.006,#C8BDFF,
+New York,Amérique du Nord,1834,341.3042,US,New York - US,341.3042,40.71435,-74.006,#C8BDFF,
+New York,Amérique du Nord,1835,360.338,US,New York - US,341.3042,40.71435,-74.006,#C8BDFF,9
+New York,Amérique du Nord,1836,379.3718,US,New York - US,360.338,40.71435,-74.006,#C8BDFF,8
+New York,Amérique du Nord,1837,398.4056,US,New York - US,379.3718,40.71435,-74.006,#C8BDFF,8
+New York,Amérique du Nord,1838,417.4394,US,New York - US,398.4056,40.71435,-74.006,#C8BDFF,8
+New York,Amérique du Nord,1839,436.4732,US,New York - US,417.4394,40.71435,-74.006,#C8BDFF,7
+New York,Amérique du Nord,1840,455.507,US,New York - US,436.4732,40.71435,-74.006,#C8BDFF,7
+New York,Amérique du Nord,1841,474.5408,US,New York - US,455.507,40.71435,-74.006,#C8BDFF,6
+New York,Amérique du Nord,1842,493.5746,US,New York - US,474.5408,40.71435,-74.006,#C8BDFF,6
+New York,Amérique du Nord,1843,512.6084,US,New York - US,493.5746,40.71435,-74.006,#C8BDFF,6
+New York,Amérique du Nord,1844,531.6422,US,New York - US,512.6084,40.71435,-74.006,#C8BDFF,6
+New York,Amérique du Nord,1845,550.676,US,New York - US,531.6422,40.71435,-74.006,#C8BDFF,6
+New York,Amérique du Nord,1846,569.7098,US,New York - US,550.676,40.71435,-74.006,#C8BDFF,6
+New York,Amérique du Nord,1847,588.7436,US,New York - US,569.7098,40.71435,-74.006,#C8BDFF,6
+New York,Amérique du Nord,1848,607.7774,US,New York - US,588.7436,40.71435,-74.006,#C8BDFF,6
+New York,Amérique du Nord,1849,626.8112,US,New York - US,607.7774,40.71435,-74.006,#C8BDFF,6
+New York,Amérique du Nord,1850,645.845,US,New York - US,626.8112,40.71435,-74.006,#C8BDFF,6
+New York,Amérique du Nord,1851,696.0112,US,New York - US,645.845,40.71435,-74.006,#C8BDFF,6
+New York,Amérique du Nord,1852,746.1774,US,New York - US,696.0112,40.71435,-74.006,#C8BDFF,6
+New York,Amérique du Nord,1853,796.3436,US,New York - US,746.1774,40.71435,-74.006,#C8BDFF,4
+New York,Amérique du Nord,1854,846.5098,US,New York - US,796.3436,40.71435,-74.006,#C8BDFF,4
+New York,Amérique du Nord,1855,896.676,US,New York - US,846.5098,40.71435,-74.006,#C8BDFF,3
+New York,Amérique du Nord,1856,946.8422,US,New York - US,896.676,40.71435,-74.006,#C8BDFF,3
+New York,Amérique du Nord,1857,997.0084,US,New York - US,946.8422,40.71435,-74.006,#C8BDFF,3
+New York,Amérique du Nord,1858,1047.1746,US,New York - US,997.0084,40.71435,-74.006,#C8BDFF,3
+New York,Amérique du Nord,1859,1097.3408,US,New York - US,1047.1746,40.71435,-74.006,#C8BDFF,3
+New York,Amérique du Nord,1860,1147.507,US,New York - US,1097.3408,40.71435,-74.006,#C8BDFF,3
+New York,Amérique du Nord,1861,1197.6732,US,New York - US,1147.507,40.71435,-74.006,#C8BDFF,3
+New York,Amérique du Nord,1862,1247.8394,US,New York - US,1197.6732,40.71435,-74.006,#C8BDFF,3
+New York,Amérique du Nord,1863,1298.0056,US,New York - US,1247.8394,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1864,1348.1718,US,New York - US,1298.0056,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1865,1398.338,US,New York - US,1348.1718,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1866,1448.5042,US,New York - US,1398.338,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1867,1498.6704,US,New York - US,1448.5042,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1868,1548.8366,US,New York - US,1498.6704,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1869,1599.0028,US,New York - US,1548.8366,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1870,1649.169,US,New York - US,1599.0028,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1871,1699.3352,US,New York - US,1649.169,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1872,1749.5014,US,New York - US,1699.3352,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1873,1799.6676,US,New York - US,1749.5014,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1874,1849.8338,US,New York - US,1799.6676,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1875,1900,US,New York - US,1849.8338,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1876,1993.68,US,New York - US,1900,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1877,2087.36,US,New York - US,1993.68,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1878,2181.04,US,New York - US,2087.36,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1879,2274.72,US,New York - US,2181.04,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1880,2368.4,US,New York - US,2274.72,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1881,2462.08,US,New York - US,2368.4,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1882,2555.76,US,New York - US,2462.08,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1883,2649.44,US,New York - US,2555.76,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1884,2743.12,US,New York - US,2649.44,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1885,2836.8,US,New York - US,2743.12,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1886,2930.48,US,New York - US,2836.8,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1887,3024.16,US,New York - US,2930.48,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1888,3117.84,US,New York - US,3024.16,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1889,3211.52,US,New York - US,3117.84,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1890,3305.2,US,New York - US,3211.52,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1891,3398.88,US,New York - US,3305.2,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1892,3492.56,US,New York - US,3398.88,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1893,3586.24,US,New York - US,3492.56,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1894,3679.92,US,New York - US,3586.24,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1895,3773.6,US,New York - US,3679.92,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1896,3867.28,US,New York - US,3773.6,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1897,3960.96,US,New York - US,3867.28,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1898,4054.64,US,New York - US,3960.96,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1899,4148.32,US,New York - US,4054.64,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1900,4242,US,New York - US,4148.32,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1901,4417.571429,US,New York - US,4242,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1902,4593.142857,US,New York - US,4417.571429,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1903,4768.714286,US,New York - US,4593.142857,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1904,4944.285714,US,New York - US,4768.714286,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1905,5119.857143,US,New York - US,4944.285714,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1906,5295.428571,US,New York - US,5119.857143,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1907,5471,US,New York - US,5295.428571,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1908,5646.571429,US,New York - US,5471,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1909,5822.142857,US,New York - US,5646.571429,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1910,5997.714286,US,New York - US,5822.142857,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1911,6173.285714,US,New York - US,5997.714286,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1912,6348.857143,US,New York - US,6173.285714,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1913,6524.428571,US,New York - US,6348.857143,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1914,6700,US,New York - US,6524.428571,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1915,6797.636364,US,New York - US,6700,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1916,6895.272727,US,New York - US,6797.636364,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1917,6992.909091,US,New York - US,6895.272727,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1918,7090.545455,US,New York - US,6992.909091,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1919,7188.181818,US,New York - US,7090.545455,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1920,7285.818182,US,New York - US,7188.181818,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1921,7383.454545,US,New York - US,7285.818182,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1922,7481.090909,US,New York - US,7383.454545,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1923,7578.727273,US,New York - US,7481.090909,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1924,7676.363636,US,New York - US,7578.727273,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1925,7774,US,New York - US,7676.363636,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1926,7961.56,US,New York - US,7774,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1927,8149.12,US,New York - US,7961.56,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1928,8336.68,US,New York - US,8149.12,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1929,8524.24,US,New York - US,8336.68,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1930,8711.8,US,New York - US,8524.24,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1931,8899.36,US,New York - US,8711.8,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1932,9086.92,US,New York - US,8899.36,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1933,9274.48,US,New York - US,9086.92,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1934,9462.04,US,New York - US,9274.48,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1935,9649.6,US,New York - US,9462.04,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1936,9837.16,US,New York - US,9649.6,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1937,10024.72,US,New York - US,9837.16,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1938,10212.28,US,New York - US,10024.72,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1939,10399.84,US,New York - US,10212.28,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1940,10587.4,US,New York - US,10399.84,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1941,10774.96,US,New York - US,10587.4,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1942,10962.52,US,New York - US,10774.96,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1943,11150.08,US,New York - US,10962.52,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1944,11337.64,US,New York - US,11150.08,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1945,11525.2,US,New York - US,11337.64,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1946,11712.76,US,New York - US,11525.2,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1947,11900.32,US,New York - US,11712.76,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1948,12087.88,US,New York - US,11900.32,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1949,12275.44,US,New York - US,12087.88,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1950,12463,US,New York - US,12275.44,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1951,12614.2,US,New York - US,12463,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1952,12765.4,US,New York - US,12614.2,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1953,12916.6,US,New York - US,12765.4,40.71435,-74.006,#C8BDFF,0
+New York,Amérique du Nord,1954,13067.8,US,New York - US,12916.6,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1955,13219,US,New York - US,13067.8,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1956,13408,US,New York - US,13219,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1957,13597,US,New York - US,13408,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1958,13786,US,New York - US,13597,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1959,13975,US,New York - US,13786,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1960,14164,US,New York - US,13975,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1961,14366.6,US,New York - US,14164,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1962,14569.2,US,New York - US,14366.6,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1963,14771.8,US,New York - US,14569.2,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1964,14974.4,US,New York - US,14771.8,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1965,15177,US,New York - US,14974.4,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1966,15592,US,New York - US,15177,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1967,16007,US,New York - US,15592,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1968,16422,US,New York - US,16007,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1969,16837,US,New York - US,16422,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1970,17252,US,New York - US,16837,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1971,17221.6,US,New York - US,17252,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1972,17191.2,US,New York - US,17221.6,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1973,17160.8,US,New York - US,17191.2,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1974,17130.4,US,New York - US,17160.8,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1975,17100,US,New York - US,17130.4,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1976,16800.2,US,New York - US,17100,40.71435,-74.006,#C8BDFF,1
+New York,Amérique du Nord,1977,16500.4,US,New York - US,16800.2,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1978,16200.6,US,New York - US,16500.4,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1979,15900.8,US,New York - US,16200.6,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1980,15601,US,New York - US,15900.8,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1981,15646.2,US,New York - US,15601,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1982,15691.4,US,New York - US,15646.2,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1983,15736.6,US,New York - US,15691.4,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1984,15781.8,US,New York - US,15736.6,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1985,15827,US,New York - US,15781.8,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1986,15878.8,US,New York - US,15827,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1987,15930.6,US,New York - US,15878.8,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1988,15982.4,US,New York - US,15930.6,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1989,16034.2,US,New York - US,15982.4,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1990,16086,US,New York - US,16034.2,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1991,16257.4,US,New York - US,16086,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1992,16428.8,US,New York - US,16257.4,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1993,16600.2,US,New York - US,16428.8,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1994,16771.6,US,New York - US,16600.2,40.71435,-74.006,#C8BDFF,2
+New York,Amérique du Nord,1995,16943,US,New York - US,16771.6,40.71435,-74.006,#C8BDFF,3
+New York,Amérique du Nord,1996,17117,US,New York - US,16943,40.71435,-74.006,#C8BDFF,3
+New York,Amérique du Nord,1997,17291,US,New York - US,17117,40.71435,-74.006,#C8BDFF,3
+New York,Amérique du Nord,1998,17465,US,New York - US,17291,40.71435,-74.006,#C8BDFF,3
+New York,Amérique du Nord,1999,17639,US,New York - US,17465,40.71435,-74.006,#C8BDFF,3
+New York,Amérique du Nord,2000,17813,US,New York - US,17639,40.71435,-74.006,#C8BDFF,3
+New York,Amérique du Nord,2001,17867.8,US,New York - US,17813,40.71435,-74.006,#C8BDFF,3
+New York,Amérique du Nord,2002,17922.6,US,New York - US,17867.8,40.71435,-74.006,#C8BDFF,3
+New York,Amérique du Nord,2003,17977.4,US,New York - US,17922.6,40.71435,-74.006,#C8BDFF,3
+New York,Amérique du Nord,2004,18032.2,US,New York - US,17977.4,40.71435,-74.006,#C8BDFF,5
+New York,Amérique du Nord,2005,18087,US,New York - US,18032.2,40.71435,-74.006,#C8BDFF,5
+New York,Amérique du Nord,2006,18142.6,US,New York - US,18087,40.71435,-74.006,#C8BDFF,6
+New York,Amérique du Nord,2007,18198.2,US,New York - US,18142.6,40.71435,-74.006,#C8BDFF,6
+New York,Amérique du Nord,2008,18253.8,US,New York - US,18198.2,40.71435,-74.006,#C8BDFF,7
+New York,Amérique du Nord,2009,18309.4,US,New York - US,18253.8,40.71435,-74.006,#C8BDFF,7
+New York,Amérique du Nord,2010,18365,US,New York - US,18309.4,40.71435,-74.006,#C8BDFF,7
+New York,Amérique du Nord,2011,18410.6,US,New York - US,18365,40.71435,-74.006,#C8BDFF,7
+New York,Amérique du Nord,2012,18456.2,US,New York - US,18410.6,40.71435,-74.006,#C8BDFF,7
+New York,Amérique du Nord,2013,18501.8,US,New York - US,18456.2,40.71435,-74.006,#C8BDFF,8
+New York,Amérique du Nord,2014,18547.4,US,New York - US,18501.8,40.71435,-74.006,#C8BDFF,8
+New York,Amérique du Nord,2015,18593,US,New York - US,18547.4,40.71435,-74.006,#C8BDFF,9
+New York,Amérique du Nord,2016,18633,US,New York - US,18593,40.71435,-74.006,#C8BDFF,9
+New York,Amérique du Nord,2017,18673,US,New York - US,18633,40.71435,-74.006,#C8BDFF,
+New York,Amérique du Nord,2018,18713,US,New York - US,18673,40.71435,-74.006,#C8BDFF,
+New York,Amérique du Nord,2019,18753,US,New York - US,18713,40.71435,-74.006,#C8BDFF,
+New York,Amérique du Nord,2020,18793,US,New York - US,18753,40.71435,-74.006,#C8BDFF,
 Osaka,Asie,1589,186.75,Japon,Osaka - Japon,186.75,34.675834,135.502082,#C8BDFF,9
 Osaka,Asie,1590,202.5,Japon,Osaka - Japon,186.75,34.675834,135.502082,#C8BDFF,8
 Osaka,Asie,1591,218.25,Japon,Osaka - Japon,202.5,34.675834,135.502082,#C8BDFF,8
@@ -5182,93 +5182,93 @@ Pegu,Asie,1575,175,Myanmar,Pegu - Myanmar,174,17.333333,96.483333,#C8BDFF,9
 Pegu,Asie,1576,173.8095238,Myanmar,Pegu - Myanmar,175,17.333333,96.483333,#C8BDFF,9
 Pegu,Asie,1577,172.6190476,Myanmar,Pegu - Myanmar,173.8095238,17.333333,96.483333,#C8BDFF,9
 Pegu,Asie,1578,171.4285714,Myanmar,Pegu - Myanmar,172.6190476,17.333333,96.483333,#C8BDFF,
-Philadelphie,Amérique du Nord,1851,440.81216,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,440.81216,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1852,455.40332,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,440.81216,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1853,469.99448,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,455.40332,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1854,484.58564,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,469.99448,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1855,499.1768,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,484.58564,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1856,513.76796,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,499.1768,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1857,528.35912,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,513.76796,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1858,542.95028,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,528.35912,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1859,557.54144,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,542.95028,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1860,572.1326,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,557.54144,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1861,586.72376,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,572.1326,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1862,601.31492,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,586.72376,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1863,615.90608,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,601.31492,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1864,630.49724,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,615.90608,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1865,645.0884,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,630.49724,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1866,659.67956,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,645.0884,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1867,674.27072,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,659.67956,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1868,688.86188,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,674.27072,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1869,703.45304,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,688.86188,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1870,718.0442,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,703.45304,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1871,732.63536,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,718.0442,39.95,-75.1667,#C8BDFF,9
-Philadelphie,Amérique du Nord,1872,747.22652,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,732.63536,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1873,761.81768,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,747.22652,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1874,776.40884,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,761.81768,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1875,791,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,776.40884,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1876,816.08,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,791,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1877,841.16,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,816.08,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1878,866.24,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,841.16,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1879,891.32,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,866.24,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1880,916.4,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,891.32,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1881,941.48,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,916.4,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1882,966.56,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,941.48,39.95,-75.1667,#C8BDFF,6
-Philadelphie,Amérique du Nord,1883,991.64,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,966.56,39.95,-75.1667,#C8BDFF,6
-Philadelphie,Amérique du Nord,1884,1016.72,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,991.64,39.95,-75.1667,#C8BDFF,6
-Philadelphie,Amérique du Nord,1885,1041.8,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1016.72,39.95,-75.1667,#C8BDFF,6
-Philadelphie,Amérique du Nord,1886,1066.88,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1041.8,39.95,-75.1667,#C8BDFF,6
-Philadelphie,Amérique du Nord,1887,1091.96,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1066.88,39.95,-75.1667,#C8BDFF,6
-Philadelphie,Amérique du Nord,1888,1117.04,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1091.96,39.95,-75.1667,#C8BDFF,6
-Philadelphie,Amérique du Nord,1889,1142.12,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1117.04,39.95,-75.1667,#C8BDFF,6
-Philadelphie,Amérique du Nord,1890,1167.2,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1142.12,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1891,1192.28,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1167.2,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1892,1217.36,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1192.28,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1893,1242.44,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1217.36,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1894,1267.52,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1242.44,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1895,1292.6,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1267.52,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1896,1317.68,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1292.6,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1897,1342.76,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1317.68,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1898,1367.84,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1342.76,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1899,1392.92,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1367.84,39.95,-75.1667,#C8BDFF,9
-Philadelphie,Amérique du Nord,1900,1418,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1392.92,39.95,-75.1667,#C8BDFF,9
-Philadelphie,Amérique du Nord,1901,1442.428571,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1418,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1902,1466.857143,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1442.428571,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1903,1491.285714,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1466.857143,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1904,1515.714286,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1491.285714,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1905,1540.142857,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1515.714286,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1906,1564.571429,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1540.142857,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1907,1589,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1564.571429,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1908,1613.428571,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1589,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1909,1637.857143,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1613.428571,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1910,1662.285714,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1637.857143,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1911,1686.714286,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1662.285714,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1912,1711.142857,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1686.714286,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1913,1735.571429,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1711.142857,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1914,1760,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1735.571429,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1915,1789.545455,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1760,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1916,1819.090909,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1789.545455,39.95,-75.1667,#C8BDFF,6
-Philadelphie,Amérique du Nord,1917,1848.636364,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1819.090909,39.95,-75.1667,#C8BDFF,6
-Philadelphie,Amérique du Nord,1918,1878.181818,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1848.636364,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1919,1907.727273,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1878.181818,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1920,1937.272727,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1907.727273,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1921,1966.818182,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1937.272727,39.95,-75.1667,#C8BDFF,7
-Philadelphie,Amérique du Nord,1922,1996.363636,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1966.818182,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1923,2025.909091,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,1996.363636,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1924,2055.454545,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,2025.909091,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1925,2085,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,2055.454545,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1926,2126.72,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,2085,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1927,2168.44,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,2126.72,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1928,2210.16,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,2168.44,39.95,-75.1667,#C8BDFF,8
-Philadelphie,Amérique du Nord,1929,2251.88,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,2210.16,39.95,-75.1667,#C8BDFF,9
-Philadelphie,Amérique du Nord,1930,2293.6,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,2251.88,39.95,-75.1667,#C8BDFF,9
-Philadelphie,Amérique du Nord,1931,2335.32,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,2293.6,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1932,2377.04,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,2335.32,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1933,2418.76,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,2377.04,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1934,2460.48,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,2418.76,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1935,2502.2,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,2460.48,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1936,2543.92,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,2502.2,39.95,-75.1667,#C8BDFF,
-Philadelphie,Amérique du Nord,1937,2585.64,Etats-Unis d'Amérique,Philadelphie - Etats-Unis d'Amérique,2543.92,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1851,440.81216,US,Philadelphie - US,440.81216,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1852,455.40332,US,Philadelphie - US,440.81216,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1853,469.99448,US,Philadelphie - US,455.40332,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1854,484.58564,US,Philadelphie - US,469.99448,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1855,499.1768,US,Philadelphie - US,484.58564,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1856,513.76796,US,Philadelphie - US,499.1768,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1857,528.35912,US,Philadelphie - US,513.76796,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1858,542.95028,US,Philadelphie - US,528.35912,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1859,557.54144,US,Philadelphie - US,542.95028,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1860,572.1326,US,Philadelphie - US,557.54144,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1861,586.72376,US,Philadelphie - US,572.1326,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1862,601.31492,US,Philadelphie - US,586.72376,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1863,615.90608,US,Philadelphie - US,601.31492,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1864,630.49724,US,Philadelphie - US,615.90608,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1865,645.0884,US,Philadelphie - US,630.49724,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1866,659.67956,US,Philadelphie - US,645.0884,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1867,674.27072,US,Philadelphie - US,659.67956,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1868,688.86188,US,Philadelphie - US,674.27072,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1869,703.45304,US,Philadelphie - US,688.86188,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1870,718.0442,US,Philadelphie - US,703.45304,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1871,732.63536,US,Philadelphie - US,718.0442,39.95,-75.1667,#C8BDFF,9
+Philadelphie,Amérique du Nord,1872,747.22652,US,Philadelphie - US,732.63536,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1873,761.81768,US,Philadelphie - US,747.22652,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1874,776.40884,US,Philadelphie - US,761.81768,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1875,791,US,Philadelphie - US,776.40884,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1876,816.08,US,Philadelphie - US,791,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1877,841.16,US,Philadelphie - US,816.08,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1878,866.24,US,Philadelphie - US,841.16,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1879,891.32,US,Philadelphie - US,866.24,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1880,916.4,US,Philadelphie - US,891.32,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1881,941.48,US,Philadelphie - US,916.4,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1882,966.56,US,Philadelphie - US,941.48,39.95,-75.1667,#C8BDFF,6
+Philadelphie,Amérique du Nord,1883,991.64,US,Philadelphie - US,966.56,39.95,-75.1667,#C8BDFF,6
+Philadelphie,Amérique du Nord,1884,1016.72,US,Philadelphie - US,991.64,39.95,-75.1667,#C8BDFF,6
+Philadelphie,Amérique du Nord,1885,1041.8,US,Philadelphie - US,1016.72,39.95,-75.1667,#C8BDFF,6
+Philadelphie,Amérique du Nord,1886,1066.88,US,Philadelphie - US,1041.8,39.95,-75.1667,#C8BDFF,6
+Philadelphie,Amérique du Nord,1887,1091.96,US,Philadelphie - US,1066.88,39.95,-75.1667,#C8BDFF,6
+Philadelphie,Amérique du Nord,1888,1117.04,US,Philadelphie - US,1091.96,39.95,-75.1667,#C8BDFF,6
+Philadelphie,Amérique du Nord,1889,1142.12,US,Philadelphie - US,1117.04,39.95,-75.1667,#C8BDFF,6
+Philadelphie,Amérique du Nord,1890,1167.2,US,Philadelphie - US,1142.12,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1891,1192.28,US,Philadelphie - US,1167.2,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1892,1217.36,US,Philadelphie - US,1192.28,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1893,1242.44,US,Philadelphie - US,1217.36,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1894,1267.52,US,Philadelphie - US,1242.44,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1895,1292.6,US,Philadelphie - US,1267.52,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1896,1317.68,US,Philadelphie - US,1292.6,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1897,1342.76,US,Philadelphie - US,1317.68,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1898,1367.84,US,Philadelphie - US,1342.76,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1899,1392.92,US,Philadelphie - US,1367.84,39.95,-75.1667,#C8BDFF,9
+Philadelphie,Amérique du Nord,1900,1418,US,Philadelphie - US,1392.92,39.95,-75.1667,#C8BDFF,9
+Philadelphie,Amérique du Nord,1901,1442.428571,US,Philadelphie - US,1418,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1902,1466.857143,US,Philadelphie - US,1442.428571,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1903,1491.285714,US,Philadelphie - US,1466.857143,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1904,1515.714286,US,Philadelphie - US,1491.285714,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1905,1540.142857,US,Philadelphie - US,1515.714286,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1906,1564.571429,US,Philadelphie - US,1540.142857,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1907,1589,US,Philadelphie - US,1564.571429,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1908,1613.428571,US,Philadelphie - US,1589,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1909,1637.857143,US,Philadelphie - US,1613.428571,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1910,1662.285714,US,Philadelphie - US,1637.857143,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1911,1686.714286,US,Philadelphie - US,1662.285714,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1912,1711.142857,US,Philadelphie - US,1686.714286,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1913,1735.571429,US,Philadelphie - US,1711.142857,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1914,1760,US,Philadelphie - US,1735.571429,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1915,1789.545455,US,Philadelphie - US,1760,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1916,1819.090909,US,Philadelphie - US,1789.545455,39.95,-75.1667,#C8BDFF,6
+Philadelphie,Amérique du Nord,1917,1848.636364,US,Philadelphie - US,1819.090909,39.95,-75.1667,#C8BDFF,6
+Philadelphie,Amérique du Nord,1918,1878.181818,US,Philadelphie - US,1848.636364,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1919,1907.727273,US,Philadelphie - US,1878.181818,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1920,1937.272727,US,Philadelphie - US,1907.727273,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1921,1966.818182,US,Philadelphie - US,1937.272727,39.95,-75.1667,#C8BDFF,7
+Philadelphie,Amérique du Nord,1922,1996.363636,US,Philadelphie - US,1966.818182,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1923,2025.909091,US,Philadelphie - US,1996.363636,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1924,2055.454545,US,Philadelphie - US,2025.909091,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1925,2085,US,Philadelphie - US,2055.454545,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1926,2126.72,US,Philadelphie - US,2085,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1927,2168.44,US,Philadelphie - US,2126.72,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1928,2210.16,US,Philadelphie - US,2168.44,39.95,-75.1667,#C8BDFF,8
+Philadelphie,Amérique du Nord,1929,2251.88,US,Philadelphie - US,2210.16,39.95,-75.1667,#C8BDFF,9
+Philadelphie,Amérique du Nord,1930,2293.6,US,Philadelphie - US,2251.88,39.95,-75.1667,#C8BDFF,9
+Philadelphie,Amérique du Nord,1931,2335.32,US,Philadelphie - US,2293.6,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1932,2377.04,US,Philadelphie - US,2335.32,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1933,2418.76,US,Philadelphie - US,2377.04,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1934,2460.48,US,Philadelphie - US,2418.76,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1935,2502.2,US,Philadelphie - US,2460.48,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1936,2543.92,US,Philadelphie - US,2502.2,39.95,-75.1667,#C8BDFF,
+Philadelphie,Amérique du Nord,1937,2585.64,US,Philadelphie - US,2543.92,39.95,-75.1667,#C8BDFF,
 Rio de Janeiro,Amérique Latine,1971,7260,Brésil,Rio de Janeiro - Brésil,7260,-22.90278,-43.21,#C8BDFF,
 Rio de Janeiro,Amérique Latine,1972,7520,Brésil,Rio de Janeiro - Brésil,7260,-22.90278,-43.21,#C8BDFF,
 Rio de Janeiro,Amérique Latine,1973,7780,Brésil,Rio de Janeiro - Brésil,7520,-22.90278,-43.21,#C8BDFF,9
@@ -5288,112 +5288,112 @@ Rio de Janeiro,Amérique Latine,1986,9333,Brésil,Rio de Janeiro - Brésil,9242,
 Rio de Janeiro,Amérique Latine,1987,9424,Brésil,Rio de Janeiro - Brésil,9333,-22.90278,-43.21,#C8BDFF,
 Rio de Janeiro,Amérique Latine,1988,9515,Brésil,Rio de Janeiro - Brésil,9424,-22.90278,-43.21,#C8BDFF,
 Rio de Janeiro,Amérique Latine,1989,9606,Brésil,Rio de Janeiro - Brésil,9515,-22.90278,-43.21,#C8BDFF,
-Saint-Pétersbourg,Europe,1805,263.76,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,263.76,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1806,272.472,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,263.76,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1807,281.184,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,272.472,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1808,289.896,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,281.184,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1809,298.608,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,289.896,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1810,307.32,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,298.608,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1811,316.032,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,307.32,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1812,324.744,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,316.032,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1813,333.456,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,324.744,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1814,342.168,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,333.456,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1815,350.88,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,342.168,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1816,359.592,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,350.88,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1817,368.304,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,359.592,59.89444,30.26417,#C8BDFF,8
-Saint-Pétersbourg,Europe,1818,377.016,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,368.304,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1819,385.728,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,377.016,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1820,394.44,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,385.728,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1821,403.152,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,394.44,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1822,411.864,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,403.152,59.89444,30.26417,#C8BDFF,6
-Saint-Pétersbourg,Europe,1823,420.576,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,411.864,59.89444,30.26417,#C8BDFF,6
-Saint-Pétersbourg,Europe,1824,429.288,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,420.576,59.89444,30.26417,#C8BDFF,6
-Saint-Pétersbourg,Europe,1825,438,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,429.288,59.89444,30.26417,#C8BDFF,6
-Saint-Pétersbourg,Europe,1826,439.5407391,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,438,59.89444,30.26417,#C8BDFF,6
-Saint-Pétersbourg,Europe,1827,441.0814783,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,439.5407391,59.89444,30.26417,#C8BDFF,6
-Saint-Pétersbourg,Europe,1828,442.6222174,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,441.0814783,59.89444,30.26417,#C8BDFF,6
-Saint-Pétersbourg,Europe,1829,444.1629565,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,442.6222174,59.89444,30.26417,#C8BDFF,6
-Saint-Pétersbourg,Europe,1830,445.7036957,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,444.1629565,59.89444,30.26417,#C8BDFF,6
-Saint-Pétersbourg,Europe,1831,447.2444348,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,445.7036957,59.89444,30.26417,#C8BDFF,6
-Saint-Pétersbourg,Europe,1832,448.7851739,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,447.2444348,59.89444,30.26417,#C8BDFF,6
-Saint-Pétersbourg,Europe,1833,450.325913,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,448.7851739,59.89444,30.26417,#C8BDFF,6
-Saint-Pétersbourg,Europe,1834,451.8666522,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,450.325913,59.89444,30.26417,#C8BDFF,6
-Saint-Pétersbourg,Europe,1835,453.4073913,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,451.8666522,59.89444,30.26417,#C8BDFF,6
-Saint-Pétersbourg,Europe,1836,454.9481304,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,453.4073913,59.89444,30.26417,#C8BDFF,6
-Saint-Pétersbourg,Europe,1837,456.4888696,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,454.9481304,59.89444,30.26417,#C8BDFF,6
-Saint-Pétersbourg,Europe,1838,458.0296087,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,456.4888696,59.89444,30.26417,#C8BDFF,6
-Saint-Pétersbourg,Europe,1839,459.5703478,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,458.0296087,59.89444,30.26417,#C8BDFF,6
-Saint-Pétersbourg,Europe,1840,461.111087,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,459.5703478,59.89444,30.26417,#C8BDFF,6
-Saint-Pétersbourg,Europe,1841,462.6518261,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,461.111087,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1842,464.1925652,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,462.6518261,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1843,465.7333043,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,464.1925652,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1844,467.2740435,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,465.7333043,59.89444,30.26417,#C8BDFF,8
-Saint-Pétersbourg,Europe,1845,468.8147826,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,467.2740435,59.89444,30.26417,#C8BDFF,8
-Saint-Pétersbourg,Europe,1846,470.3555217,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,468.8147826,59.89444,30.26417,#C8BDFF,8
-Saint-Pétersbourg,Europe,1847,471.8962609,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,470.3555217,59.89444,30.26417,#C8BDFF,8
-Saint-Pétersbourg,Europe,1848,473.437,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,471.8962609,59.89444,30.26417,#C8BDFF,8
-Saint-Pétersbourg,Europe,1849,487.7185,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,473.437,59.89444,30.26417,#C8BDFF,8
-Saint-Pétersbourg,Europe,1850,502,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,487.7185,59.89444,30.26417,#C8BDFF,8
-Saint-Pétersbourg,Europe,1851,517.1205,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,502,59.89444,30.26417,#C8BDFF,8
-Saint-Pétersbourg,Europe,1852,532.241,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,517.1205,59.89444,30.26417,#C8BDFF,8
-Saint-Pétersbourg,Europe,1853,542.3174783,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,532.241,59.89444,30.26417,#C8BDFF,8
-Saint-Pétersbourg,Europe,1854,552.3939565,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,542.3174783,59.89444,30.26417,#C8BDFF,8
-Saint-Pétersbourg,Europe,1855,562.4704348,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,552.3939565,59.89444,30.26417,#C8BDFF,9
-Saint-Pétersbourg,Europe,1856,572.546913,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,562.4704348,59.89444,30.26417,#C8BDFF,9
-Saint-Pétersbourg,Europe,1857,582.6233913,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,572.546913,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1858,592.6998696,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,582.6233913,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1859,602.7763478,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,592.6998696,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1860,612.8528261,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,602.7763478,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1861,622.9293043,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,612.8528261,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1862,633.0057826,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,622.9293043,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1863,643.0822609,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,633.0057826,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1864,653.1587391,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,643.0822609,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1865,663.2352174,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,653.1587391,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1866,673.3116957,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,663.2352174,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1867,683.3881739,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,673.3116957,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1868,693.4646522,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,683.3881739,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1869,703.5411304,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,693.4646522,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1870,713.6176087,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,703.5411304,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1871,723.694087,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,713.6176087,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1872,733.7705652,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,723.694087,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1873,743.8470435,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,733.7705652,59.89444,30.26417,#C8BDFF,9
-Saint-Pétersbourg,Europe,1874,753.9235217,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,743.8470435,59.89444,30.26417,#C8BDFF,9
-Saint-Pétersbourg,Europe,1875,764,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,753.9235217,59.89444,30.26417,#C8BDFF,9
-Saint-Pétersbourg,Europe,1876,791,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,764,59.89444,30.26417,#C8BDFF,9
-Saint-Pétersbourg,Europe,1877,818,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,791,59.89444,30.26417,#C8BDFF,9
-Saint-Pétersbourg,Europe,1878,845,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,818,59.89444,30.26417,#C8BDFF,9
-Saint-Pétersbourg,Europe,1879,872,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,845,59.89444,30.26417,#C8BDFF,9
-Saint-Pétersbourg,Europe,1880,899,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,872,59.89444,30.26417,#C8BDFF,8
-Saint-Pétersbourg,Europe,1881,926,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,899,59.89444,30.26417,#C8BDFF,8
-Saint-Pétersbourg,Europe,1882,953,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,926,59.89444,30.26417,#C8BDFF,8
-Saint-Pétersbourg,Europe,1883,980,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,953,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1884,1007,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,980,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1885,1034,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1007,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1886,1061,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1034,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1887,1088,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1061,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1888,1115,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1088,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1889,1142,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1115,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1890,1169,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1142,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1891,1196,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1169,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1892,1223,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1196,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1893,1250,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1223,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1894,1277,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1250,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1895,1304,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1277,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1896,1331,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1304,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1897,1358,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1331,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1898,1385,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1358,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1899,1412,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1385,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1900,1439,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1412,59.89444,30.26417,#C8BDFF,7
-Saint-Pétersbourg,Europe,1901,1438.64,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1439,59.89444,30.26417,#C8BDFF,9
-Saint-Pétersbourg,Europe,1902,1438.28,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1438.64,59.89444,30.26417,#C8BDFF,9
-Saint-Pétersbourg,Europe,1903,1437.92,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1438.28,59.89444,30.26417,#C8BDFF,9
-Saint-Pétersbourg,Europe,1904,1437.56,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1437.92,59.89444,30.26417,#C8BDFF,9
-Saint-Pétersbourg,Europe,1905,1437.2,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1437.56,59.89444,30.26417,#C8BDFF,9
-Saint-Pétersbourg,Europe,1906,1436.84,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1437.2,59.89444,30.26417,#C8BDFF,9
-Saint-Pétersbourg,Europe,1907,1436.48,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1436.84,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1908,1436.12,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1436.48,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1909,1435.76,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1436.12,59.89444,30.26417,#C8BDFF,
-Saint-Pétersbourg,Europe,1910,1435.4,REtats-Unis d'Amériquesie,Saint-Pétersbourg - REtats-Unis d'Amériquesie,1435.76,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1805,263.76,Russie,Saint-Pétersbourg - Russie,263.76,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1806,272.472,Russie,Saint-Pétersbourg - Russie,263.76,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1807,281.184,Russie,Saint-Pétersbourg - Russie,272.472,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1808,289.896,Russie,Saint-Pétersbourg - Russie,281.184,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1809,298.608,Russie,Saint-Pétersbourg - Russie,289.896,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1810,307.32,Russie,Saint-Pétersbourg - Russie,298.608,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1811,316.032,Russie,Saint-Pétersbourg - Russie,307.32,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1812,324.744,Russie,Saint-Pétersbourg - Russie,316.032,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1813,333.456,Russie,Saint-Pétersbourg - Russie,324.744,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1814,342.168,Russie,Saint-Pétersbourg - Russie,333.456,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1815,350.88,Russie,Saint-Pétersbourg - Russie,342.168,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1816,359.592,Russie,Saint-Pétersbourg - Russie,350.88,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1817,368.304,Russie,Saint-Pétersbourg - Russie,359.592,59.89444,30.26417,#C8BDFF,8
+Saint-Pétersbourg,Europe,1818,377.016,Russie,Saint-Pétersbourg - Russie,368.304,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1819,385.728,Russie,Saint-Pétersbourg - Russie,377.016,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1820,394.44,Russie,Saint-Pétersbourg - Russie,385.728,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1821,403.152,Russie,Saint-Pétersbourg - Russie,394.44,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1822,411.864,Russie,Saint-Pétersbourg - Russie,403.152,59.89444,30.26417,#C8BDFF,6
+Saint-Pétersbourg,Europe,1823,420.576,Russie,Saint-Pétersbourg - Russie,411.864,59.89444,30.26417,#C8BDFF,6
+Saint-Pétersbourg,Europe,1824,429.288,Russie,Saint-Pétersbourg - Russie,420.576,59.89444,30.26417,#C8BDFF,6
+Saint-Pétersbourg,Europe,1825,438,Russie,Saint-Pétersbourg - Russie,429.288,59.89444,30.26417,#C8BDFF,6
+Saint-Pétersbourg,Europe,1826,439.5407391,Russie,Saint-Pétersbourg - Russie,438,59.89444,30.26417,#C8BDFF,6
+Saint-Pétersbourg,Europe,1827,441.0814783,Russie,Saint-Pétersbourg - Russie,439.5407391,59.89444,30.26417,#C8BDFF,6
+Saint-Pétersbourg,Europe,1828,442.6222174,Russie,Saint-Pétersbourg - Russie,441.0814783,59.89444,30.26417,#C8BDFF,6
+Saint-Pétersbourg,Europe,1829,444.1629565,Russie,Saint-Pétersbourg - Russie,442.6222174,59.89444,30.26417,#C8BDFF,6
+Saint-Pétersbourg,Europe,1830,445.7036957,Russie,Saint-Pétersbourg - Russie,444.1629565,59.89444,30.26417,#C8BDFF,6
+Saint-Pétersbourg,Europe,1831,447.2444348,Russie,Saint-Pétersbourg - Russie,445.7036957,59.89444,30.26417,#C8BDFF,6
+Saint-Pétersbourg,Europe,1832,448.7851739,Russie,Saint-Pétersbourg - Russie,447.2444348,59.89444,30.26417,#C8BDFF,6
+Saint-Pétersbourg,Europe,1833,450.325913,Russie,Saint-Pétersbourg - Russie,448.7851739,59.89444,30.26417,#C8BDFF,6
+Saint-Pétersbourg,Europe,1834,451.8666522,Russie,Saint-Pétersbourg - Russie,450.325913,59.89444,30.26417,#C8BDFF,6
+Saint-Pétersbourg,Europe,1835,453.4073913,Russie,Saint-Pétersbourg - Russie,451.8666522,59.89444,30.26417,#C8BDFF,6
+Saint-Pétersbourg,Europe,1836,454.9481304,Russie,Saint-Pétersbourg - Russie,453.4073913,59.89444,30.26417,#C8BDFF,6
+Saint-Pétersbourg,Europe,1837,456.4888696,Russie,Saint-Pétersbourg - Russie,454.9481304,59.89444,30.26417,#C8BDFF,6
+Saint-Pétersbourg,Europe,1838,458.0296087,Russie,Saint-Pétersbourg - Russie,456.4888696,59.89444,30.26417,#C8BDFF,6
+Saint-Pétersbourg,Europe,1839,459.5703478,Russie,Saint-Pétersbourg - Russie,458.0296087,59.89444,30.26417,#C8BDFF,6
+Saint-Pétersbourg,Europe,1840,461.111087,Russie,Saint-Pétersbourg - Russie,459.5703478,59.89444,30.26417,#C8BDFF,6
+Saint-Pétersbourg,Europe,1841,462.6518261,Russie,Saint-Pétersbourg - Russie,461.111087,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1842,464.1925652,Russie,Saint-Pétersbourg - Russie,462.6518261,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1843,465.7333043,Russie,Saint-Pétersbourg - Russie,464.1925652,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1844,467.2740435,Russie,Saint-Pétersbourg - Russie,465.7333043,59.89444,30.26417,#C8BDFF,8
+Saint-Pétersbourg,Europe,1845,468.8147826,Russie,Saint-Pétersbourg - Russie,467.2740435,59.89444,30.26417,#C8BDFF,8
+Saint-Pétersbourg,Europe,1846,470.3555217,Russie,Saint-Pétersbourg - Russie,468.8147826,59.89444,30.26417,#C8BDFF,8
+Saint-Pétersbourg,Europe,1847,471.8962609,Russie,Saint-Pétersbourg - Russie,470.3555217,59.89444,30.26417,#C8BDFF,8
+Saint-Pétersbourg,Europe,1848,473.437,Russie,Saint-Pétersbourg - Russie,471.8962609,59.89444,30.26417,#C8BDFF,8
+Saint-Pétersbourg,Europe,1849,487.7185,Russie,Saint-Pétersbourg - Russie,473.437,59.89444,30.26417,#C8BDFF,8
+Saint-Pétersbourg,Europe,1850,502,Russie,Saint-Pétersbourg - Russie,487.7185,59.89444,30.26417,#C8BDFF,8
+Saint-Pétersbourg,Europe,1851,517.1205,Russie,Saint-Pétersbourg - Russie,502,59.89444,30.26417,#C8BDFF,8
+Saint-Pétersbourg,Europe,1852,532.241,Russie,Saint-Pétersbourg - Russie,517.1205,59.89444,30.26417,#C8BDFF,8
+Saint-Pétersbourg,Europe,1853,542.3174783,Russie,Saint-Pétersbourg - Russie,532.241,59.89444,30.26417,#C8BDFF,8
+Saint-Pétersbourg,Europe,1854,552.3939565,Russie,Saint-Pétersbourg - Russie,542.3174783,59.89444,30.26417,#C8BDFF,8
+Saint-Pétersbourg,Europe,1855,562.4704348,Russie,Saint-Pétersbourg - Russie,552.3939565,59.89444,30.26417,#C8BDFF,9
+Saint-Pétersbourg,Europe,1856,572.546913,Russie,Saint-Pétersbourg - Russie,562.4704348,59.89444,30.26417,#C8BDFF,9
+Saint-Pétersbourg,Europe,1857,582.6233913,Russie,Saint-Pétersbourg - Russie,572.546913,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1858,592.6998696,Russie,Saint-Pétersbourg - Russie,582.6233913,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1859,602.7763478,Russie,Saint-Pétersbourg - Russie,592.6998696,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1860,612.8528261,Russie,Saint-Pétersbourg - Russie,602.7763478,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1861,622.9293043,Russie,Saint-Pétersbourg - Russie,612.8528261,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1862,633.0057826,Russie,Saint-Pétersbourg - Russie,622.9293043,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1863,643.0822609,Russie,Saint-Pétersbourg - Russie,633.0057826,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1864,653.1587391,Russie,Saint-Pétersbourg - Russie,643.0822609,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1865,663.2352174,Russie,Saint-Pétersbourg - Russie,653.1587391,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1866,673.3116957,Russie,Saint-Pétersbourg - Russie,663.2352174,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1867,683.3881739,Russie,Saint-Pétersbourg - Russie,673.3116957,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1868,693.4646522,Russie,Saint-Pétersbourg - Russie,683.3881739,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1869,703.5411304,Russie,Saint-Pétersbourg - Russie,693.4646522,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1870,713.6176087,Russie,Saint-Pétersbourg - Russie,703.5411304,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1871,723.694087,Russie,Saint-Pétersbourg - Russie,713.6176087,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1872,733.7705652,Russie,Saint-Pétersbourg - Russie,723.694087,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1873,743.8470435,Russie,Saint-Pétersbourg - Russie,733.7705652,59.89444,30.26417,#C8BDFF,9
+Saint-Pétersbourg,Europe,1874,753.9235217,Russie,Saint-Pétersbourg - Russie,743.8470435,59.89444,30.26417,#C8BDFF,9
+Saint-Pétersbourg,Europe,1875,764,Russie,Saint-Pétersbourg - Russie,753.9235217,59.89444,30.26417,#C8BDFF,9
+Saint-Pétersbourg,Europe,1876,791,Russie,Saint-Pétersbourg - Russie,764,59.89444,30.26417,#C8BDFF,9
+Saint-Pétersbourg,Europe,1877,818,Russie,Saint-Pétersbourg - Russie,791,59.89444,30.26417,#C8BDFF,9
+Saint-Pétersbourg,Europe,1878,845,Russie,Saint-Pétersbourg - Russie,818,59.89444,30.26417,#C8BDFF,9
+Saint-Pétersbourg,Europe,1879,872,Russie,Saint-Pétersbourg - Russie,845,59.89444,30.26417,#C8BDFF,9
+Saint-Pétersbourg,Europe,1880,899,Russie,Saint-Pétersbourg - Russie,872,59.89444,30.26417,#C8BDFF,8
+Saint-Pétersbourg,Europe,1881,926,Russie,Saint-Pétersbourg - Russie,899,59.89444,30.26417,#C8BDFF,8
+Saint-Pétersbourg,Europe,1882,953,Russie,Saint-Pétersbourg - Russie,926,59.89444,30.26417,#C8BDFF,8
+Saint-Pétersbourg,Europe,1883,980,Russie,Saint-Pétersbourg - Russie,953,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1884,1007,Russie,Saint-Pétersbourg - Russie,980,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1885,1034,Russie,Saint-Pétersbourg - Russie,1007,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1886,1061,Russie,Saint-Pétersbourg - Russie,1034,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1887,1088,Russie,Saint-Pétersbourg - Russie,1061,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1888,1115,Russie,Saint-Pétersbourg - Russie,1088,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1889,1142,Russie,Saint-Pétersbourg - Russie,1115,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1890,1169,Russie,Saint-Pétersbourg - Russie,1142,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1891,1196,Russie,Saint-Pétersbourg - Russie,1169,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1892,1223,Russie,Saint-Pétersbourg - Russie,1196,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1893,1250,Russie,Saint-Pétersbourg - Russie,1223,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1894,1277,Russie,Saint-Pétersbourg - Russie,1250,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1895,1304,Russie,Saint-Pétersbourg - Russie,1277,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1896,1331,Russie,Saint-Pétersbourg - Russie,1304,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1897,1358,Russie,Saint-Pétersbourg - Russie,1331,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1898,1385,Russie,Saint-Pétersbourg - Russie,1358,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1899,1412,Russie,Saint-Pétersbourg - Russie,1385,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1900,1439,Russie,Saint-Pétersbourg - Russie,1412,59.89444,30.26417,#C8BDFF,7
+Saint-Pétersbourg,Europe,1901,1438.64,Russie,Saint-Pétersbourg - Russie,1439,59.89444,30.26417,#C8BDFF,9
+Saint-Pétersbourg,Europe,1902,1438.28,Russie,Saint-Pétersbourg - Russie,1438.64,59.89444,30.26417,#C8BDFF,9
+Saint-Pétersbourg,Europe,1903,1437.92,Russie,Saint-Pétersbourg - Russie,1438.28,59.89444,30.26417,#C8BDFF,9
+Saint-Pétersbourg,Europe,1904,1437.56,Russie,Saint-Pétersbourg - Russie,1437.92,59.89444,30.26417,#C8BDFF,9
+Saint-Pétersbourg,Europe,1905,1437.2,Russie,Saint-Pétersbourg - Russie,1437.56,59.89444,30.26417,#C8BDFF,9
+Saint-Pétersbourg,Europe,1906,1436.84,Russie,Saint-Pétersbourg - Russie,1437.2,59.89444,30.26417,#C8BDFF,9
+Saint-Pétersbourg,Europe,1907,1436.48,Russie,Saint-Pétersbourg - Russie,1436.84,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1908,1436.12,Russie,Saint-Pétersbourg - Russie,1436.48,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1909,1435.76,Russie,Saint-Pétersbourg - Russie,1436.12,59.89444,30.26417,#C8BDFF,
+Saint-Pétersbourg,Europe,1910,1435.4,Russie,Saint-Pétersbourg - Russie,1435.76,59.89444,30.26417,#C8BDFF,
 Sao Paulo,Amérique Latine,1968,6769.6,Brésil,Sao Paulo - Brésil,6769.6,-23.55,-46.64,#C8BDFF,
 Sao Paulo,Amérique Latine,1969,7194.8,Brésil,Sao Paulo - Brésil,6769.6,-23.55,-46.64,#C8BDFF,
 Sao Paulo,Amérique Latine,1970,7620,Brésil,Sao Paulo - Brésil,7194.8,-23.55,-46.64,#C8BDFF,9
